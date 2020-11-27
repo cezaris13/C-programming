@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603782902 source:/home/pijus/Desktop/Programming/2_mini_uzduotis/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

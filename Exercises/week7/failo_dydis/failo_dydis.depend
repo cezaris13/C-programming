@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605387193 source:/home/pijus/Desktop/Programming/failo_dydis/main.c
+	<stdio.h>
+	<stdlib.h>
+

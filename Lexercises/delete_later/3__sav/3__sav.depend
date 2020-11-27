@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601358019 source:/home/pijus/Desktop/Programming/3__sav/main.c
+	<stdio.h>
+	<stdlib.h>
+

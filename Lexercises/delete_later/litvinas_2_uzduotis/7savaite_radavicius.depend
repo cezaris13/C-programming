@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1603791695 source:/home/pijus/Desktop/Programming/7savaite_radavicius/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1604946391 source:/home/pijus/Desktop/Programming/litvinas_2_uzduotis/main.c
+	<stdio.h>
+	<stdlib.h>
+

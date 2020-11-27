@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605539736 source:/home/pijus/Desktop/Programming/masyvo_kurimas/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605082825 source:/home/pijus/Desktop/Programming/date/main.c
+	<stdio.h>
+	<stdlib.h>
+

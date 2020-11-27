@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1605125026 source:/home/pijus/Desktop/Programming/emails/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1605449728 source:/home/pijus/Desktop/Programming/Radavicius/emails/main.c
+	<stdio.h>
+	<stdlib.h>
+

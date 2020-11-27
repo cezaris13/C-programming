@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605389450 source:/home/pijus/Desktop/Programming/meniu/main.c
+	<stdio.h>
+	<stdlib.h>
+

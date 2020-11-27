@@ -1,0 +1,3407 @@
+999 records loaded succesfully
+Helen Darry 4 7.000000 3
+Computer programming 6
+Computer networks 5
+Computer programming 10
+English Russian
+
+Jenny Sheen 1 8.166667 6
+Algebra 10
+Discrete mathematics 9
+Operating systems 6
+Algorithms 9
+Operating systems 10
+Set theory 5
+English
+
+Adam Quarry 1 7.500000 2
+Physics 7
+Philosophy 8
+English Russian Spanish French Lithuanian
+
+Sole Hat 2 7.333333 3
+Algebra 5
+Discrete mathematics 8
+Algorithms 9
+English Lithuanian
+
+Wilhelm Druddle 2 7.500000 2
+Physics 10
+Calculus 5
+English Spanish French
+
+Sole King 3 8.333333 3
+Discrete mathematics 8
+Discrete mathematics 7
+Computer programming 10
+English French
+
+Karl Darry 1 8.666667 3
+Computer networks 9
+Computer programming 10
+Operating systems 7
+English Russian Spanish
+
+Alex Leben 1 8.000000 3
+Algebra 6
+Physics 9
+Algebra 9
+English Russian
+
+Jim Sheen 1 6.000000 2
+Discrete mathematics 6
+Physics 8
+English
+
+Jessie Brighthill 1 9.000000 3
+Set theory 9
+Algebra 9
+Physics 9
+English Russian
+
+Jane Kesting 1 8.000000 3
+Philosophy 10
+Computer networks 5
+Algorithms 9
+English Spanish Lithuanian
+
+Betty Madsen 3 6.666667 3
+Discrete mathematics 10
+Computer programming 5
+Calculus 5
+English French
+
+Kylie Perry 3 6.500000 2
+Computer programming 7
+Computer programming 6
+English Russian Spanish Lithuanian
+
+Arnold Davison 4 7.000000 2
+Discrete mathematics 6
+Algorithms 8
+English
+
+Debora King 4 9.000000 1
+Operating systems 9
+English Russian Spanish French
+
+George Druddle 2 8.000000 3
+Physics 7
+Operating systems 10
+Operating systems 7
+English Spanish
+
+Jessie Sleight 1 6.250000 4
+Discrete mathematics 7
+Computer programming 7
+Set theory 10
+Philosophy 5
+English
+
+Richard Darry 1 8.000000 4
+Discrete mathematics 5
+Discrete mathematics 10
+Calculus 9
+Physics 8
+English Spanish
+
+Helen Madsen 3 9.500000 2
+Computer networks 10
+Computer programming 9
+English French
+
+Jerry Hudson 1 6.500000 2
+Set theory 5
+Physics 8
+English Russian
+
+Sole Doe 2 7.333333 3
+Physics 7
+Discrete mathematics 5
+Set theory 10
+English Spanish Lithuanian
+
+Eve Sleight 3 9.333333 3
+Discrete mathematics 8
+Calculus 10
+Calculus 10
+English
+
+Adam Kesting 2 6.333333 3
+Algorithms 6
+Philosophy 5
+Set theory 8
+English
+
+Kim Sadman 4 9.250000 4
+Philosophy 9
+Set theory 10
+Computer programming 9
+Philosophy 9
+English
+
+Matt Damon 1 8.500000 2
+Philosophy 9
+Algebra 8
+English Spanish
+
+Jane Wozniak 1 0.000000 0
+English Russian French Lithuanian
+
+Alex Doe 1 6.500000 2
+Computer programming 9
+Set theory 6
+English Russian Lithuanian
+
+Jane Perry 3 8.000000 4
+Operating systems 7
+Philosophy 7
+Discrete mathematics 10
+Algebra 8
+English Spanish Lithuanian
+
+Charlie Hudson 1 7.333333 3
+Algorithms 7
+Calculus 9
+Operating systems 6
+English
+
+Angelina Note 2 10.000000 1
+Operating systems 10
+English
+
+Richard King 1 7.500000 4
+Physics 7
+Computer programming 9
+Philosophy 6
+Physics 8
+English Russian
+
+Jerry Gibbs 1 8.200000 5
+Algorithms 8
+Operating systems 8
+Set theory 9
+Discrete mathematics 10
+Set theory 6
+English Lithuanian
+
+Melissa Hat 3 7.666667 3
+Philosophy 8
+Discrete mathematics 7
+Philosophy 8
+English Spanish French
+
+Jamie King 2 0.000000 0
+English
+
+Sole Stapleton 2 7.500000 2
+Philosophy 7
+Computer programming 8
+English Spanish French Lithuanian
+
+Jamie King 4 9.500000 2
+Algebra 9
+Operating systems 10
+English
+
+Melissa Druddle 2 7.750000 4
+Physics 9
+Discrete mathematics 10
+Computer networks 6
+Set theory 6
+English Russian French
+
+Victor Sleight 3 10.000000 2
+Calculus 10
+Set theory 10
+English Russian
+
+Sarah Lockwood 2 6.500000 2
+Computer networks 8
+Algorithms 5
+English
+
+Jamie Stapleton 2 7.000000 1
+Computer programming 6
+English
+
+Kim Brightman 4 7.750000 4
+Discrete mathematics 6
+Philosophy 10
+Algorithms 6
+Discrete mathematics 9
+English Spanish French
+
+Alex Brightman 4 9.500000 2
+Computer networks 10
+Physics 9
+English Spanish French Lithuanian
+
+Eve Madsen 3 6.000000 2
+Computer programming 7
+Algorithms 5
+English Spanish
+
+Jane Madsen 4 5.000000 1
+Set theory 5
+English
+
+Helen Damon 3 7.000000 4
+Operating systems 8
+Computer networks 10
+Algorithms 5
+Philosophy 5
+English Russian French
+
+Jenny Kesting 3 8.250000 4
+Operating systems 10
+Computer programming 9
+Algorithms 5
+Computer programming 9
+English Spanish
+
+Karl King 4 10.000000 2
+Computer programming 10
+Physics 10
+English
+
+Jessie Hat 4 6.000000 3
+Algebra 6
+Calculus 7
+Calculus 5
+English
+
+Jane Gibson 4 6.666667 3
+Physics 9
+Set theory 5
+Calculus 6
+English Spanish
+
+Angelina Gibbs 3 7.000000 2
+Algebra 7
+Physics 7
+English Russian Lithuanian
+
+Kylie Gibson 3 6.500000 4
+Calculus 6
+Algebra 5
+Discrete mathematics 8
+Set theory 7
+English Lithuanian
+
+Karl Wozniak 1 8.666667 3
+Computer networks 8
+Discrete mathematics 9
+Operating systems 9
+English
+
+Matt Smith 2 7.600000 5
+Algorithms 8
+Set theory 7
+Physics 8
+Computer programming 8
+Physics 7
+English Russian
+
+Debora Gibson 1 6.500000 4
+Discrete mathematics 8
+Algorithms 6
+Algebra 6
+Computer programming 6
+English French
+
+Jenny Quarry 3 7.000000 1
+Physics 7
+English Spanish
+
+Sarah Darry 2 9.000000 2
+Set theory 9
+Algorithms 9
+English Russian
+
+Charlie Kesting 1 9.000000 2
+Computer programming 9
+Set theory 9
+English
+
+Angelina Perry 3 7.250000 4
+Philosophy 8
+Algebra 7
+Operating systems 5
+Calculus 9
+English
+
+Arnold Brighthill 1 8.666667 3
+Algebra 8
+Physics 8
+Physics 10
+English
+
+Alice Hat 3 6.666667 3
+Physics 8
+Computer networks 10
+Discrete mathematics 5
+English
+
+Jim Note 1 7.500000 2
+Computer programming 9
+Set theory 6
+English
+
+Kim Enderman 3 8.250000 4
+Philosophy 9
+Algorithms 7
+Computer networks 10
+Computer programming 7
+English Lithuanian
+
+Jane Stapleton 1 6.500000 2
+Computer programming 8
+Computer networks 5
+English Russian Spanish Lithuanian
+
+Jerry Perry 2 5.333333 3
+Calculus 6
+Set theory 5
+Algebra 5
+English Spanish
+
+Jerry Hat 4 7.000000 1
+Calculus 7
+English French
+
+Jim Kesting 1 7.000000 2
+Algorithms 8
+Operating systems 6
+English Russian Spanish French
+
+Sarah Doe 3 7.333333 3
+Computer programming 5
+Algebra 9
+Physics 8
+English
+
+Jenny Hudson 3 8.750000 4
+Physics 9
+Discrete mathematics 10
+Computer networks 10
+Computer programming 6
+English Russian
+
+Arnold Smith 1 6.400000 5
+Physics 9
+Discrete mathematics 5
+Algebra 7
+Set theory 6
+Calculus 5
+English Russian Lithuanian
+
+Alex Quarry 4 7.000000 2
+Philosophy 8
+Operating systems 6
+English Russian French
+
+Helen Wood 2 9.250000 4
+Discrete mathematics 8
+Computer programming 10
+Discrete mathematics 9
+Algorithms 10
+English Russian French
+
+Betty Kesting 4 10.000000 1
+Computer programming 10
+English
+
+Kylie Smith 1 7.833333 6
+Set theory 7
+Calculus 8
+Algebra 6
+Physics 6
+Philosophy 10
+Algebra 10
+English
+
+Wilhelm Gibbs 3 6.000000 3
+Computer programming 8
+Philosophy 5
+Operating systems 5
+English French
+
+Jane de Vito 3 7.750000 4
+Operating systems 8
+Computer networks 8
+Algebra 6
+Philosophy 9
+English Russian French Lithuanian
+
+Alice Smith 1 9.500000 2
+Computer networks 10
+Calculus 9
+English
+
+Julie Druddle 1 6.666667 3
+Algebra 5
+Philosophy 8
+Set theory 7
+English Lithuanian
+
+Arnold Lockwood 1 7.000000 3
+Philosophy 7
+Algebra 8
+Algorithms 6
+English Spanish
+
+Matt Madsen 1 8.000000 2
+Philosophy 6
+Discrete mathematics 10
+English French
+
+Jessie Davison 2 9.500000 2
+Computer networks 10
+Algebra 9
+English
+
+Charlie de Vito 3 7.000000 2
+Computer networks 5
+Computer networks 9
+English
+
+Julie Enderman 3 10.000000 1
+Calculus 10
+English French Lithuanian
+
+Arnold Sadman 2 7.250000 4
+Physics 5
+Computer programming 10
+Philosophy 6
+Operating systems 8
+English
+
+Karl Gibson 2 7.500000 2
+Computer networks 10
+Set theory 5
+English Spanish French
+
+Jerry Quarry 1 8.000000 1
+Algebra 8
+English Russian
+
+Eve Norman 3 5.750000 4
+Physics 7
+Calculus 10
+Computer programming 5
+Operating systems 5
+English Russian French
+
+Robert Damon 3 7.333333 3
+Physics 7
+Discrete mathematics 7
+Algebra 8
+English Spanish
+
+Sole Wozniak 2 6.666667 3
+Set theory 7
+Calculus 6
+Computer networks 7
+English Spanish French
+
+Adam Kesting 1 7.000000 4
+Physics 6
+Discrete mathematics 7
+Operating systems 9
+Algorithms 6
+English
+
+Charlie Hudson 4 6.750000 4
+Set theory 6
+Discrete mathematics 5
+Philosophy 6
+Computer networks 10
+English
+
+Karl Brighthill 2 0.000000 0
+English Russian French Lithuanian
+
+Richard Sleight 3 9.500000 2
+Computer programming 10
+Discrete mathematics 9
+English French
+
+Debora Perry 3 9.000000 4
+Algorithms 7
+Set theory 9
+Operating systems 10
+Calculus 10
+English
+
+Jane King 4 9.666667 3
+Algorithms 10
+Algorithms 10
+Computer programming 9
+English
+
+Julie Leben 2 8.000000 3
+Computer networks 9
+Algorithms 9
+Physics 6
+English French
+
+Matt Sleight 1 5.000000 1
+Computer programming 6
+English Lithuanian
+
+Robert Darry 2 7.000000 1
+Discrete mathematics 7
+English Spanish French
+
+Alex Stapleton 3 9.666667 3
+Discrete mathematics 10
+Operating systems 10
+Algebra 9
+English Russian Lithuanian
+
+Jessie Madsen 3 7.800000 5
+Algorithms 6
+Algorithms 10
+Calculus 8
+Computer networks 7
+Discrete mathematics 8
+English Spanish
+
+Helen Brightman 3 8.750000 4
+Algorithms 10
+Philosophy 7
+Computer programming 9
+Computer programming 9
+English Russian French
+
+Adam Sheen 3 8.000000 1
+Physics 8
+English French
+
+Jamie Sadman 2 7.750000 4
+Computer programming 8
+Set theory 7
+Philosophy 8
+Discrete mathematics 8
+English Spanish
+
+Sole Damon 3 8.000000 2
+Computer networks 10
+Physics 6
+English
+
+Melissa Kesting 2 10.500000 2
+Computer programming 10
+Computer networks 9
+English Russian Spanish Lithuanian
+
+Arnold Hudson 2 7.250000 4
+Philosophy 10
+Set theory 6
+Discrete mathematics 5
+Algebra 8
+English French
+
+Debora Brightman 4 7.000000 3
+Computer programming 7
+Calculus 8
+Calculus 6
+English French
+
+Jamie Norman 2 7.000000 3
+Philosophy 6
+Discrete mathematics 9
+Calculus 6
+English Spanish French Lithuanian
+
+Alice Perry 2 6.000000 1
+Operating systems 6
+English
+
+Debora Leben 4 7.500000 2
+Algebra 9
+Algebra 6
+English Spanish French
+
+Richard de Vito 2 7.500000 4
+Algebra 9
+Philosophy 9
+Algorithms 7
+Physics 5
+English Spanish
+
+Alex Quarry 4 7.428571 7
+Operating systems 7
+Algorithms 5
+Calculus 10
+Algorithms 8
+Philosophy 6
+Set theory 8
+Operating systems 8
+English
+
+Robert Davison 3 9.500000 2
+Set theory 10
+Discrete mathematics 9
+English
+
+Charlie Brighthill 4 8.500000 4
+Physics 8
+Set theory 7
+Operating systems 9
+Operating systems 10
+English Russian Spanish
+
+Sole Davison 3 6.750000 4
+Computer networks 8
+Computer networks 6
+Calculus 5
+Philosophy 8
+English Spanish French Lithuanian
+
+Jane Hudson 3 7.000000 2
+Set theory 6
+Algorithms 8
+English French
+
+Helen Davison 3 8.500000 2
+Operating systems 10
+Discrete mathematics 7
+English
+
+Victor Perry 3 8.166667 6
+Computer networks 10
+Physics 8
+Physics 8
+Set theory 9
+Algorithms 6
+Set theory 8
+English Russian
+
+Jenny Brightman 3 7.200000 5
+Algorithms 8
+Operating systems 7
+Philosophy 5
+Algorithms 6
+Operating systems 10
+English French
+
+Helen Lockwood 1 6.000000 1
+Discrete mathematics 6
+English Spanish
+
+Adam Davison 4 7.000000 5
+Set theory 6
+Algebra 8
+Algebra 6
+Calculus 6
+Physics 9
+English French
+
+Betty Leben 2 6.600000 5
+Operating systems 5
+Computer networks 8
+Algorithms 6
+Physics 9
+Physics 5
+English
+
+Kim Sheen 1 0.000000 0
+English
+
+Sarah Enderman 4 7.250000 4
+Algebra 10
+Operating systems 6
+Computer networks 8
+Calculus 5
+English
+
+Kim Wozniak 1 8.200000 5
+Philosophy 6
+Discrete mathematics 7
+Computer networks 9
+Computer networks 10
+Algorithms 9
+English Russian Lithuanian
+
+Angelina Doe 2 7.666667 3
+Algorithms 6
+Physics 10
+Set theory 7
+English Spanish Lithuanian
+
+Jim Gibson 2 7.500000 4
+Operating systems 7
+Set theory 10
+Philosophy 5
+Algorithms 8
+English Russian Spanish
+
+Adam Thornton 2 7.000000 3
+Calculus 8
+Calculus 6
+Physics 7
+English Lithuanian
+
+Sole Leben 2 7.333333 3
+Algebra 6
+Computer networks 10
+Set theory 6
+English Spanish
+
+Betty Perry 4 8.666667 3
+Computer networks 8
+Discrete mathematics 10
+Algebra 8
+English Russian Lithuanian
+
+Adam Gibson 2 5.666667 3
+Computer networks 7
+Algebra 5
+Algorithms 5
+English
+
+Kim Thornton 4 7.400000 5
+Set theory 6
+Discrete mathematics 7
+Discrete mathematics 10
+Computer programming 6
+Philosophy 8
+English Russian
+
+Victor Davison 4 5.666667 3
+Calculus 5
+Algorithms 5
+Algorithms 7
+English Russian Lithuanian
+
+Jenny Damon 4 6.000000 1
+Calculus 6
+English Spanish
+
+Eve Wozniak 3 7.333333 3
+Operating systems 8
+Computer programming 9
+Computer programming 5
+English Russian Spanish Lithuanian
+
+Luke Stapleton 1 5.000000 1
+Physics 5
+English
+
+Matt Hat 2 5.000000 1
+Physics 5
+English Spanish Lithuanian
+
+Eve Wozniak 3 7.000000 3
+Computer networks 7
+Computer programming 6
+Algorithms 8
+English Lithuanian
+
+Debora Damon 4 8.250000 4
+Discrete mathematics 9
+Physics 9
+Physics 9
+Philosophy 6
+English
+
+Alex Norman 3 8.000000 2
+Calculus 7
+Calculus 9
+English
+
+Wilhelm Smith 3 6.500000 4
+Computer programming 6
+Computer programming 7
+Calculus 6
+Discrete mathematics 7
+English Russian
+
+George Sadman 4 8.500000 2
+Algebra 7
+Operating systems 10
+English
+
+Charlie Enderman 1 6.000000 4
+Computer networks 5
+Operating systems 5
+Algebra 9
+Physics 5
+English Russian
+
+Melissa Druddle 1 7.800000 5
+Computer programming 9
+Computer networks 8
+Discrete mathematics 7
+Philosophy 9
+Algorithms 6
+English French Lithuanian
+
+Melissa Sadman 1 6.500000 2
+Philosophy 5
+Computer programming 8
+English
+
+Kylie Damon 3 8.750000 4
+Set theory 10
+Algebra 8
+Discrete mathematics 7
+Philosophy 10
+English
+
+George Doe 2 8.000000 5
+Computer networks 10
+Philosophy 7
+Discrete mathematics 10
+Philosophy 5
+Discrete mathematics 8
+English Russian
+
+Kylie Sleight 2 7.500000 2
+Philosophy 7
+Physics 8
+English
+
+Karl Brightman 3 7.000000 1
+Algorithms 7
+English Russian Lithuanian
+
+Jerry Sheen 1 6.666667 3
+Operating systems 9
+Computer programming 5
+Algorithms 6
+English Russian Spanish Lithuanian
+
+Jane Stapleton 3 5.000000 2
+Calculus 5
+Discrete mathematics 5
+English
+
+Arnold King 1 8.000000 6
+Operating systems 9
+Algorithms 6
+Calculus 6
+Discrete mathematics 10
+Computer networks 9
+Physics 8
+English
+
+Luke Hat 2 7.500000 4
+Calculus 9
+Discrete mathematics 5
+Set theory 8
+Calculus 8
+English Russian Lithuanian
+
+Jane Note 3 9.000000 1
+Computer programming 9
+English
+
+Kim Norman 3 7.666667 3
+Philosophy 7
+Physics 8
+Computer networks 8
+English Spanish
+
+Matt Leben 3 6.500000 4
+Calculus 8
+Discrete mathematics 5
+Physics 5
+Physics 8
+English Spanish
+
+Melissa Brighthill 4 6.000000 2
+Discrete mathematics 5
+Set theory 7
+English Russian
+
+Karl Sheen 1 5.500000 2
+Set theory 6
+Computer networks 5
+English Russian
+
+Alex Norman 2 7.333333 3
+Set theory 10
+Discrete mathematics 6
+Discrete mathematics 6
+English Russian
+
+Julie Hudson 1 7.250000 4
+Set theory 9
+Computer networks 7
+Discrete mathematics 5
+Physics 8
+English
+
+Jamie Wozniak 1 9.000000 3
+Philosophy 8
+Computer programming 9
+Calculus 10
+English Russian Spanish
+
+Alice Kesting 4 7.666667 3
+Philosophy 8
+Operating systems 7
+Physics 8
+English Spanish
+
+Kylie de Vito 4 6.666667 3
+Physics 6
+Computer networks 7
+Operating systems 7
+English Spanish French
+
+Jane Hat 3 8.333333 3
+Set theory 9
+Computer programming 7
+Algebra 9
+English
+
+Wilhelm Stapleton 2 7.000000 3
+Computer programming 6
+Set theory 7
+Calculus 8
+English French
+
+Kylie Kesting 3 6.000000 1
+Physics 6
+English Russian Lithuanian
+
+Melissa Kesting 2 8.500000 2
+Set theory 10
+Algorithms 7
+English Spanish
+
+Jessie King 3 6.333333 3
+Algebra 5
+Operating systems 8
+Algorithms 6
+English
+
+Matt Wozniak 4 10.000000 1
+Algebra 10
+English Russian
+
+Luke Hudson 3 7.750000 4
+Set theory 10
+Philosophy 7
+Operating systems 9
+Computer programming 5
+English Spanish
+
+Kim Madsen 2 8.666667 3
+Computer programming 7
+Algebra 10
+Operating systems 9
+English Russian French
+
+Sole Quarry 3 6.666667 3
+Algorithms 6
+Set theory 7
+Operating systems 7
+English Lithuanian
+
+Jessie Smith 4 8.000000 3
+Physics 8
+Discrete mathematics 6
+Philosophy 10
+English Russian
+
+Wilhelm Hat 2 6.333333 3
+Physics 5
+Algorithms 6
+Computer programming 8
+English Spanish French
+
+Richard Damon 4 0.000000 0
+English
+
+Helen Druddle 2 9.000000 3
+Computer networks 10
+Operating systems 7
+Computer programming 10
+English Spanish Lithuanian
+
+Luke Wood 3 6.750000 4
+Computer programming 8
+Physics 6
+Algebra 10
+Operating systems 7
+English Lithuanian
+
+Alex Enderman 2 8.500000 2
+Calculus 10
+Discrete mathematics 7
+English
+
+Betty Enderman 4 7.500000 2
+Set theory 10
+Set theory 5
+English Russian
+
+Adam Druddle 4 8.000000 2
+Computer programming 10
+Algebra 6
+English French
+
+Luke Brighthill 4 7.333333 3
+Computer programming 8
+Discrete mathematics 5
+Operating systems 9
+English Spanish French
+
+Kylie Damon 4 7.666667 3
+Algebra 9
+Set theory 5
+Computer networks 9
+English
+
+Wilhelm Brightman 1 8.000000 3
+Algebra 8
+Computer programming 6
+Algebra 10
+English Spanish
+
+Betty Doe 3 7.666667 3
+Physics 7
+Calculus 10
+Algebra 6
+English Lithuanian
+
+Jerry de Vito 2 6.777778 9
+Discrete mathematics 7
+Computer networks 7
+Physics 5
+Discrete mathematics 9
+Calculus 7
+Philosophy 8
+Operating systems 5
+Philosophy 6
+Discrete mathematics 7
+English
+
+Angelina King 4 7.500000 4
+Algebra 5
+Computer programming 7
+Computer networks 10
+Operating systems 8
+English Russian
+
+Victor Norman 1 7.500000 2
+Algorithms 6
+Computer programming 9
+English Lithuanian
+
+Helen Stapleton 4 8.500000 2
+Discrete mathematics 10
+Set theory 7
+English Spanish
+
+Wilhelm Note 2 7.500000 2
+Set theory 6
+Discrete mathematics 9
+English Spanish
+
+Jim Sadman 2 7.500000 2
+Discrete mathematics 9
+Physics 6
+English Spanish
+
+Charlie Doe 3 10.000000 1
+Algorithms 10
+English Lithuanian
+
+Wilhelm Darry 3 7.000000 1
+Calculus 7
+English Russian Spanish French
+
+Debora Gibbs 2 7.250000 4
+Philosophy 6
+Computer networks 8
+Discrete mathematics 9
+Computer programming 6
+English Russian
+
+Kylie Norman 4 7.500000 2
+Computer programming 8
+Computer programming 7
+English Russian
+
+Charlie Doe 4 6.500000 4
+Set theory 7
+Set theory 7
+Algorithms 5
+Discrete mathematics 7
+English
+
+Luke Kesting 1 6.500000 4
+Algebra 6
+Algorithms 6
+Physics 5
+Physics 9
+English
+
+Arnold Davison 3 7.666667 3
+Algorithms 7
+Algorithms 8
+Set theory 8
+English Russian Spanish Lithuanian
+
+Alice Davison 2 10.000000 3
+Algebra 10
+Operating systems 10
+Discrete mathematics 10
+English
+
+Jessie Note 3 7.000000 3
+Set theory 6
+Philosophy 5
+Philosophy 10
+English French
+
+Debora Hudson 3 6.500000 4
+Algebra 6
+Discrete mathematics 7
+Philosophy 6
+Physics 7
+English French Lithuanian
+
+Alex Smith 4 7.666667 3
+Computer networks 5
+Operating systems 9
+Discrete mathematics 9
+English
+
+Helen Quarry 4 8.000000 4
+Physics 5
+Algorithms 8
+Calculus 9
+Computer networks 10
+English Spanish
+
+Eve Stapleton 2 7.333333 3
+Physics 6
+Algebra 8
+Calculus 8
+English French
+
+Richard Lockwood 4 7.333333 3
+Algorithms 7
+Algebra 10
+Algebra 5
+English Spanish French
+
+Adam Damon 4 7.000000 6
+Operating systems 8
+Computer programming 10
+Algebra 7
+Calculus 6
+Operating systems 5
+Computer programming 6
+English Spanish French
+
+Jerry Madsen 2 8.333333 6
+Philosophy 8
+Calculus 8
+Physics 10
+Algebra 7
+Discrete mathematics 8
+Algebra 9
+English
+
+Sole Note 4 5.500000 4
+Calculus 5
+Computer programming 5
+Philosophy 6
+Operating systems 6
+English
+
+Karl Enderman 4 9.000000 2
+Physics 9
+Computer networks 9
+English Russian
+
+Arnold de Vito 3 7.666667 3
+Computer networks 6
+Set theory 10
+Philosophy 7
+English
+
+Arnold Damon 2 8.000000 5
+Discrete mathematics 9
+Calculus 10
+Operating systems 9
+Algorithms 7
+Operating systems 5
+English Russian
+
+Jim Gibson 3 9.000000 1
+Operating systems 9
+English
+
+Robert Doe 4 6.500000 2
+Calculus 7
+Discrete mathematics 8
+English Lithuanian
+
+Charlie Quarry 3 8.666667 6
+Philosophy 8
+Calculus 9
+Algebra 7
+Physics 9
+Computer programming 7
+Computer programming 6
+English
+
+Jim Druddle 1 7.500000 6
+Discrete mathematics 9
+Calculus 8
+Calculus 5
+Computer programming 10
+Philosophy 8
+Operating systems 5
+English Lithuanian
+
+Arnold King 3 7.750000 4
+Algorithms 6
+Calculus 9
+Operating systems 9
+Algorithms 7
+English Lithuanian
+
+Jenny Druddle 3 10.000000 2
+Philosophy 10
+Computer programming 8
+English
+
+Helen Gibson 4 9.000000 2
+Operating systems 9
+Discrete mathematics 9
+English
+
+Debora Sleight 3 7.600000 5
+Computer networks 7
+Set theory 6
+Algorithms 10
+Algorithms 10
+Computer networks 5
+English Russian French
+
+Robert Leben 4 9.500000 2
+Computer programming 9
+Computer networks 10
+English Russian
+
+George Perry 1 6.000000 1
+Calculus 5
+English
+
+Sole Druddle 3 6.000000 1
+Philosophy 6
+English French
+
+Robert Quarry 4 6.000000 3
+Computer programming 6
+Calculus 5
+Operating systems 7
+English
+
+Alice Stapleton 1 10.000000 1
+Algorithms 10
+English French
+
+Betty Darry 2 8.000000 2
+Computer networks 7
+Computer programming 9
+English Spanish Lithuanian
+
+Debora Darry 2 6.000000 1
+Operating systems 6
+English
+
+Jessie Doe 1 7.000000 5
+Discrete mathematics 7
+Discrete mathematics 7
+Algebra 8
+Operating systems 6
+Set theory 7
+English French
+
+Sole Quarry 2 7.333333 3
+Operating systems 7
+Computer networks 8
+Computer programming 7
+English Spanish
+
+Alex Sleight 1 6.666667 3
+Philosophy 5
+Computer programming 8
+Operating systems 7
+English Lithuanian
+
+Wilhelm King 1 8.500000 2
+Discrete mathematics 7
+Discrete mathematics 10
+English Russian
+
+Alice Sheen 4 7.000000 4
+Algorithms 7
+Algebra 7
+Calculus 9
+Physics 5
+English Russian Spanish
+
+Eve Damon 3 5.000000 1
+Calculus 5
+English
+
+Alex Sheen 2 6.000000 4
+Calculus 6
+Algebra 7
+Physics 6
+Philosophy 5
+English French
+
+Jenny Gibson 2 0.000000 0
+English
+
+Wilhelm Note 1 7.750000 4
+Operating systems 7
+Operating systems 10
+Set theory 7
+Philosophy 7
+English French
+
+Jamie Thornton 4 10.000000 1
+Discrete mathematics 10
+English Lithuanian
+
+Robert Druddle 2 5.000000 2
+Algorithms 5
+Discrete mathematics 5
+English Spanish French
+
+George Brightman 2 8.000000 4
+Philosophy 10
+Discrete mathematics 7
+Computer networks 8
+Philosophy 7
+English Russian
+
+Helen Leben 2 5.000000 1
+Set theory 5
+English Russian
+
+Julie Norman 3 8.000000 4
+Computer programming 10
+Algorithms 8
+Computer programming 7
+Set theory 7
+English French
+
+Karl Hudson 2 8.000000 3
+Set theory 8
+Computer networks 9
+Algebra 7
+English French
+
+Alex Doe 3 8.000000 2
+Algebra 6
+Computer programming 10
+English Russian French Lithuanian
+
+Jane Gibson 3 8.000000 4
+Philosophy 6
+Computer networks 6
+Operating systems 10
+Computer programming 10
+English
+
+Jenny Davison 2 5.000000 1
+Calculus 5
+English Russian Spanish
+
+Angelina Damon 4 5.000000 1
+Computer programming 5
+English Lithuanian
+
+Julie Sheen 3 8.500000 2
+Set theory 9
+Physics 8
+English Russian
+
+Arnold Sheen 2 9.750000 4
+Physics 9
+Physics 10
+Computer networks 9
+Algorithms 7
+English Spanish
+
+Wilhelm Kesting 1 7.333333 3
+Algorithms 6
+Computer networks 6
+Discrete mathematics 10
+English Spanish
+
+Matt Brightman 2 8.333333 3
+Algorithms 9
+Physics 7
+Computer networks 9
+English
+
+Melissa Druddle 1 7.500000 4
+Operating systems 7
+Physics 8
+Algebra 10
+Computer networks 9
+English Russian
+
+Luke de Vito 2 9.000000 2
+Discrete mathematics 9
+Algorithms 9
+English Lithuanian
+
+Betty Lockwood 1 7.250000 4
+Philosophy 5
+Computer networks 9
+Calculus 6
+Calculus 9
+English Lithuanian
+
+Jessie Lockwood 1 7.000000 3
+Computer networks 9
+Philosophy 6
+Computer programming 6
+English French
+
+Betty Enderman 2 5.500000 2
+Discrete mathematics 6
+Computer networks 5
+English Russian Lithuanian
+
+Charlie Thornton 2 7.000000 3
+Computer programming 5
+Calculus 9
+Physics 7
+English French Lithuanian
+
+Jim Smith 3 8.500000 2
+Operating systems 8
+Algorithms 9
+English French
+
+Charlie Thornton 4 8.250000 4
+Computer programming 7
+Philosophy 7
+Discrete mathematics 10
+Algorithms 9
+English Russian French
+
+Robert Stapleton 3 8.500000 2
+Operating systems 9
+Algebra 8
+English French
+
+Julie Gibson 2 7.666667 3
+Physics 6
+Discrete mathematics 10
+Philosophy 7
+English Russian French
+
+George Note 2 8.333333 3
+Computer programming 10
+Physics 5
+Algebra 10
+English Spanish
+
+Richard Brighthill 1 9.500000 2
+Algebra 10
+Calculus 9
+English Lithuanian
+
+Alex Hat 4 6.500000 2
+Physics 6
+Computer networks 7
+English Russian Lithuanian
+
+Jane Kesting 1 5.500000 2
+Set theory 6
+Calculus 5
+English French
+
+Jane Thornton 2 8.500000 2
+Computer programming 9
+Algebra 8
+English Lithuanian
+
+Angelina Stapleton 4 6.000000 2
+Physics 6
+Set theory 6
+English Spanish Lithuanian
+
+Jessie Doe 1 8.500000 2
+Operating systems 9
+Computer networks 10
+English Russian Spanish French Lithuanian
+
+Karl Note 3 5.666667 3
+Philosophy 5
+Operating systems 5
+Algorithms 7
+English
+
+Eve Madsen 2 8.000000 2
+Algebra 10
+Algebra 6
+English Russian Lithuanian
+
+Alice King 1 7.000000 2
+Computer networks 9
+Operating systems 5
+English
+
+Robert Damon 1 8.000000 2
+Discrete mathematics 7
+Physics 9
+English French Lithuanian
+
+Luke Note 3 5.500000 2
+Set theory 6
+Physics 5
+English Russian French
+
+Sole Perry 3 0.000000 0
+English
+
+Charlie Norman 1 7.750000 4
+Computer programming 6
+Discrete mathematics 8
+Calculus 10
+Philosophy 7
+English Spanish
+
+Kim Hat 2 6.500000 2
+Philosophy 6
+Operating systems 9
+English Spanish
+
+Jamie Madsen 2 7.666667 3
+Algorithms 10
+Operating systems 7
+Physics 6
+English French Lithuanian
+
+Kylie Lockwood 1 6.500000 2
+Physics 6
+Computer networks 7
+English Spanish Lithuanian
+
+George Lockwood 1 0.000000 0
+English
+
+Jane Doe 1 6.000000 2
+Discrete mathematics 5
+Algebra 7
+English Spanish
+
+Eve Leben 3 6.333333 3
+Computer networks 10
+Physics 5
+Algebra 7
+English Russian Spanish French
+
+Adam Stapleton 3 7.750000 4
+Computer programming 5
+Physics 9
+Discrete mathematics 9
+Physics 8
+English French
+
+Eve Lockwood 1 7.500000 2
+Physics 8
+Operating systems 7
+English
+
+Angelina Leben 1 5.000000 1
+Physics 6
+English
+
+Jessie Damon 3 5.333333 3
+Computer networks 5
+Computer programming 5
+Set theory 6
+English Spanish
+
+Jim Wood 2 9.000000 1
+Computer programming 9
+English Spanish
+
+Victor Hat 1 6.000000 1
+Philosophy 6
+English French
+
+Jerry Leben 1 8.500000 6
+Discrete mathematics 10
+Physics 5
+Physics 10
+Philosophy 10
+Computer networks 10
+Set theory 6
+English
+
+George Gibbs 1 7.750000 4
+Algorithms 10
+Calculus 7
+Calculus 7
+Computer programming 7
+English
+
+Matt Druddle 2 6.500000 2
+Computer programming 6
+Discrete mathematics 7
+English
+
+Kim Druddle 3 6.666667 3
+Algorithms 9
+Calculus 6
+Calculus 5
+English
+
+Jane King 2 7.000000 1
+Algebra 7
+English Russian
+
+Jim Smith 4 7.500000 4
+Discrete mathematics 9
+Set theory 6
+Computer networks 8
+Algorithms 7
+English Spanish
+
+Alice Kesting 1 5.000000 3
+Operating systems 5
+Discrete mathematics 5
+Physics 5
+English
+
+Alex de Vito 2 9.750000 4
+Algorithms 10
+Set theory 9
+Computer programming 10
+Computer networks 10
+English
+
+Betty Madsen 3 7.500000 4
+Operating systems 5
+Discrete mathematics 10
+Computer networks 7
+Operating systems 8
+English Lithuanian
+
+Kim Note 4 8.250000 4
+Algorithms 9
+Computer programming 9
+Physics 10
+Philosophy 5
+English Russian French
+
+Charlie Gibbs 4 7.000000 3
+Discrete mathematics 6
+Computer networks 9
+Algebra 6
+English
+
+Betty Enderman 2 7.000000 3
+Computer programming 6
+Operating systems 10
+Algebra 5
+English Spanish
+
+Helen Damon 2 8.400000 5
+Algorithms 8
+Philosophy 10
+Computer networks 9
+Operating systems 5
+Physics 10
+English Russian
+
+Alex Davison 2 6.500000 2
+Set theory 5
+Discrete mathematics 8
+English French
+
+Kylie Gibbs 3 7.800000 5
+Computer programming 6
+Philosophy 8
+Algebra 6
+Calculus 9
+Calculus 10
+English Russian
+
+Helen Stapleton 3 7.250000 4
+Set theory 9
+Computer networks 6
+Computer programming 8
+Discrete mathematics 6
+English French
+
+Victor Gibbs 4 7.833333 6
+Algorithms 6
+Computer networks 6
+Discrete mathematics 10
+Computer networks 9
+Operating systems 6
+Algebra 10
+English French
+
+Matt Quarry 1 7.000000 2
+Operating systems 9
+Calculus 5
+English Russian Spanish
+
+Arnold Darry 4 9.000000 1
+Physics 9
+English French Lithuanian
+
+Betty Leben 2 8.000000 2
+Philosophy 9
+Calculus 7
+English Russian Spanish
+
+Adam Wood 3 7.333333 3
+Calculus 5
+Computer programming 10
+Discrete mathematics 7
+English Russian French
+
+Jerry Brightman 1 8.000000 3
+Physics 9
+Discrete mathematics 10
+Algebra 5
+English French
+
+Jim Quarry 2 7.000000 3
+Algebra 7
+Set theory 6
+Physics 8
+English
+
+Victor Gibson 3 7.666667 3
+Operating systems 6
+Algebra 7
+Computer networks 10
+English
+
+Debora Wozniak 4 6.500000 2
+Calculus 7
+Algebra 6
+English
+
+Victor Madsen 3 8.750000 4
+Calculus 7
+Discrete mathematics 10
+Set theory 9
+Computer networks 9
+English Russian
+
+Kylie Smith 2 8.000000 2
+Computer networks 7
+Operating systems 9
+English Russian Lithuanian
+
+Robert Leben 4 8.333333 3
+Operating systems 9
+Calculus 9
+Set theory 7
+English Spanish French Lithuanian
+
+Angelina Gibson 3 5.750000 4
+Philosophy 5
+Set theory 8
+Calculus 5
+Physics 9
+English Russian Spanish French
+
+Alex de Vito 1 7.000000 4
+Physics 9
+Algebra 5
+Discrete mathematics 5
+Algorithms 9
+English Russian Lithuanian
+
+Betty Norman 1 8.200000 5
+Operating systems 9
+Philosophy 6
+Philosophy 10
+Philosophy 6
+Computer networks 10
+English Spanish French
+
+Jenny Doe 2 9.000000 3
+Set theory 9
+Calculus 9
+Computer programming 9
+English Lithuanian
+
+Eve de Vito 4 8.600000 5
+Algorithms 8
+Discrete mathematics 8
+Computer networks 10
+Discrete mathematics 10
+Operating systems 7
+English Lithuanian
+
+Luke Lockwood 2 6.400000 5
+Set theory 5
+Algebra 10
+Operating systems 6
+Algebra 6
+Algorithms 5
+English
+
+Sole Norman 3 0.000000 0
+English Lithuanian
+
+Karl Brighthill 4 7.000000 1
+Calculus 7
+English Spanish
+
+Victor Note 3 6.666667 3
+Calculus 8
+Calculus 6
+Physics 6
+English
+
+Betty Madsen 2 7.000000 3
+Computer networks 8
+Algorithms 5
+Computer networks 8
+English Russian Spanish Lithuanian
+
+Adam King 1 9.000000 1
+Algorithms 9
+English Russian
+
+Jessie Brighthill 1 7.000000 4
+Algorithms 6
+Discrete mathematics 10
+Algorithms 7
+Calculus 5
+English Spanish
+
+Jim Sheen 2 8.666667 3
+Discrete mathematics 6
+Algorithms 10
+Calculus 10
+English French Lithuanian
+
+George Gibson 4 10.000000 2
+Calculus 10
+Set theory 10
+English Spanish Lithuanian
+
+Debora Smith 1 7.000000 2
+Physics 6
+Philosophy 8
+English Spanish
+
+Luke Darry 4 6.000000 2
+Computer programming 5
+Computer networks 7
+English
+
+Robert Note 1 9.500000 2
+Operating systems 10
+Philosophy 9
+English Spanish French
+
+Jane Stapleton 4 9.500000 2
+Algebra 10
+Computer programming 9
+English Russian Spanish Lithuanian
+
+Sarah Enderman 4 9.666667 3
+Calculus 10
+Operating systems 9
+Physics 10
+English
+
+Melissa Kesting 4 8.000000 2
+Physics 7
+Computer programming 9
+English Lithuanian
+
+Matt Perry 4 8.666667 3
+Operating systems 8
+Computer programming 10
+Philosophy 8
+English Spanish
+
+Jerry Gibbs 3 7.000000 2
+Algorithms 5
+Set theory 9
+English Russian French
+
+Julie Doe 2 7.500000 2
+Discrete mathematics 6
+Computer networks 9
+English Lithuanian
+
+Luke Doe 1 8.000000 6
+Calculus 5
+Computer networks 8
+Algorithms 9
+Computer programming 8
+Set theory 8
+Computer networks 10
+English Russian
+
+Debora Enderman 4 6.666667 3
+Calculus 7
+Set theory 5
+Set theory 8
+English Spanish
+
+Sole Wood 4 7.800000 5
+Algorithms 10
+Physics 7
+Discrete mathematics 5
+Discrete mathematics 9
+Computer networks 8
+English
+
+Adam Wozniak 3 8.400000 5
+Discrete mathematics 9
+Physics 8
+Set theory 10
+Computer programming 10
+Computer networks 5
+English Spanish Lithuanian
+
+Alex Gibson 4 8.000000 4
+Computer networks 8
+Computer programming 9
+Operating systems 8
+Algorithms 7
+English Spanish
+
+Sole Stapleton 3 0.000000 0
+English French Lithuanian
+
+Richard Sleight 4 7.750000 4
+Algebra 9
+Calculus 5
+Operating systems 8
+Philosophy 9
+English Lithuanian
+
+Jerry Norman 4 7.500000 2
+Computer programming 8
+Set theory 7
+English
+
+Kim Perry 4 8.000000 3
+Computer networks 5
+Algebra 10
+Computer programming 9
+English
+
+Adam Hat 1 6.000000 2
+Algorithms 5
+Calculus 7
+English
+
+Richard Brighthill 4 7.666667 3
+Algebra 9
+Algebra 6
+Operating systems 8
+English
+
+Betty Smith 3 7.500000 4
+Computer networks 6
+Discrete mathematics 6
+Computer networks 9
+Philosophy 9
+English Spanish French
+
+Luke Doe 3 9.666667 3
+Set theory 10
+Discrete mathematics 10
+Algorithms 9
+English French
+
+Kim Note 4 6.000000 1
+Physics 6
+English
+
+Jane de Vito 2 6.000000 2
+Physics 9
+Computer programming 5
+English Spanish French Lithuanian
+
+Alice Smith 4 6.000000 1
+Philosophy 6
+English Spanish Lithuanian
+
+Jessie Gibson 1 9.666667 3
+Computer programming 9
+Computer networks 10
+Calculus 10
+English
+
+Jim Lockwood 3 9.250000 4
+Set theory 7
+Set theory 10
+Algorithms 10
+Computer networks 6
+English Russian French Lithuanian
+
+Sole Doe 1 7.000000 3
+Calculus 9
+Philosophy 6
+Philosophy 6
+English
+
+Arnold Enderman 1 8.000000 3
+Algebra 9
+Set theory 5
+Computer networks 10
+English Russian
+
+Adam Darry 3 7.666667 6
+Set theory 9
+Physics 9
+Philosophy 10
+Computer programming 7
+Calculus 5
+Discrete mathematics 6
+English French
+
+Robert Thornton 4 7.750000 4
+Set theory 6
+Physics 6
+Discrete mathematics 10
+Discrete mathematics 9
+English French
+
+Arnold Wozniak 2 7.800000 5
+Physics 5
+Discrete mathematics 6
+Philosophy 10
+Discrete mathematics 8
+Set theory 10
+English Russian
+
+Victor Thornton 2 6.666667 3
+Discrete mathematics 6
+Computer networks 8
+Algorithms 6
+English Lithuanian
+
+Jerry de Vito 3 6.000000 1
+Philosophy 6
+English Russian French
+
+Alice de Vito 2 8.000000 5
+Operating systems 7
+Algorithms 8
+Computer networks 9
+Operating systems 6
+Algebra 10
+English French
+
+Jerry Stapleton 4 9.666667 3
+Algebra 10
+Computer networks 9
+Operating systems 10
+English Spanish
+
+Richard Thornton 1 8.428571 7
+Physics 9
+Philosophy 7
+Philosophy 9
+Computer networks 7
+Physics 10
+Calculus 9
+Physics 8
+English Spanish
+
+Jim Wood 2 6.500000 4
+Computer networks 6
+Algebra 9
+Algebra 5
+Algorithms 6
+English Lithuanian
+
+George Lockwood 4 7.800000 5
+Computer networks 9
+Computer programming 9
+Computer programming 9
+Computer networks 6
+Physics 6
+English Russian Spanish French
+
+Angelina Smith 4 6.666667 3
+Algorithms 9
+Algorithms 5
+Discrete mathematics 6
+English Spanish
+
+Karl Hudson 2 7.000000 3
+Discrete mathematics 7
+Discrete mathematics 6
+Philosophy 8
+English
+
+Angelina Sheen 4 6.666667 3
+Operating systems 5
+Algorithms 8
+Philosophy 7
+English
+
+Julie Sadman 2 10.000000 4
+Algorithms 10
+Algebra 10
+Discrete mathematics 10
+Physics 10
+English
+
+Kylie Sleight 1 10.000000 1
+Algorithms 10
+English Lithuanian
+
+Jamie Perry 4 9.000000 2
+Set theory 9
+Algorithms 9
+English Russian Lithuanian
+
+Melissa Leben 4 7.500000 4
+Algorithms 7
+Algebra 9
+Calculus 7
+Calculus 7
+English French
+
+Jerry Kesting 2 7.500000 2
+Operating systems 8
+Physics 7
+English
+
+Victor Sleight 1 8.000000 2
+Computer networks 8
+Algorithms 8
+English French
+
+Richard Madsen 4 8.000000 3
+Physics 8
+Operating systems 10
+Calculus 6
+English
+
+Victor Sadman 2 8.000000 1
+Algorithms 8
+English
+
+Adam Sheen 1 7.500000 2
+Set theory 5
+Algebra 10
+English Spanish
+
+Betty Perry 4 8.500000 4
+Set theory 10
+Computer programming 7
+Operating systems 10
+Computer programming 7
+English French
+
+Charlie Thornton 2 6.750000 4
+Operating systems 10
+Algorithms 6
+Calculus 6
+Philosophy 5
+English Russian Spanish
+
+Charlie Darry 1 8.000000 1
+Philosophy 8
+English
+
+George Darry 3 6.333333 3
+Calculus 6
+Discrete mathematics 5
+Operating systems 8
+English Spanish
+
+Melissa Kesting 4 7.250000 4
+Operating systems 5
+Algorithms 8
+Algorithms 10
+Operating systems 6
+English
+
+Robert Darry 1 8.000000 3
+Algorithms 10
+Algorithms 7
+Computer programming 7
+English French Lithuanian
+
+Jenny Brightman 1 7.500000 4
+Calculus 9
+Algebra 10
+Physics 6
+Operating systems 5
+English
+
+Adam Leben 3 7.500000 2
+Computer programming 9
+Computer networks 6
+English
+
+Alex Sadman 4 8.333333 3
+Calculus 7
+Discrete mathematics 9
+Algorithms 9
+English Russian Spanish
+
+Adam Sadman 1 0.000000 0
+English Russian Spanish
+
+Angelina Quarry 1 7.800000 5
+Algebra 7
+Operating systems 9
+Philosophy 8
+Algorithms 8
+Operating systems 7
+English Lithuanian
+
+Wilhelm Wood 2 6.000000 1
+Algebra 6
+English
+
+Victor Hudson 3 8.400000 5
+Calculus 7
+Set theory 9
+Algebra 9
+Algorithms 10
+Algorithms 7
+English
+
+Matt Darry 4 7.666667 3
+Algebra 9
+Philosophy 6
+Algorithms 8
+English
+
+Angelina Wood 3 8.000000 3
+Calculus 8
+Calculus 9
+Discrete mathematics 7
+English Spanish
+
+Jamie Gibson 2 7.800000 5
+Calculus 7
+Philosophy 5
+Algorithms 9
+Algebra 10
+Set theory 8
+English Russian French
+
+Karl Note 2 8.800000 5
+Calculus 10
+Physics 8
+Operating systems 8
+Calculus 8
+Calculus 10
+English Spanish
+
+Charlie Hat 3 8.750000 4
+Philosophy 9
+Algorithms 9
+Physics 7
+Computer networks 10
+English Lithuanian
+
+Adam Madsen 2 9.500000 4
+Operating systems 10
+Operating systems 9
+Calculus 10
+Physics 9
+English Lithuanian
+
+Julie Druddle 3 7.333333 3
+Set theory 8
+Algorithms 9
+Operating systems 5
+English Russian French
+
+Sole Darry 4 5.500000 4
+Algebra 5
+Operating systems 5
+Calculus 7
+Calculus 5
+English
+
+Jessie de Vito 2 7.000000 3
+Algorithms 6
+Set theory 6
+Computer programming 9
+English Russian French
+
+Eve Davison 4 7.000000 6
+Operating systems 5
+Algebra 6
+Discrete mathematics 8
+Philosophy 9
+Algorithms 7
+Operating systems 7
+English
+
+Jenny Thornton 1 9.000000 1
+Calculus 9
+English French
+
+Robert Wood 4 7.250000 4
+Algebra 9
+Set theory 5
+Algebra 6
+Algorithms 9
+English
+
+Kim Leben 4 7.000000 2
+Physics 5
+Physics 9
+English Spanish
+
+Victor Stapleton 3 0.000000 0
+English Spanish
+
+Victor Davison 2 6.500000 2
+Philosophy 8
+Computer programming 5
+English
+
+Arnold Gibson 3 5.500000 2
+Algorithms 6
+Calculus 5
+English Russian
+
+Alex Leben 2 7.666667 3
+Calculus 10
+Operating systems 7
+Philosophy 6
+English Spanish
+
+Jerry Quarry 2 0.000000 0
+English French
+
+Kylie Leben 1 9.000000 3
+Set theory 8
+Calculus 9
+Set theory 10
+English Spanish
+
+Luke Quarry 1 8.250000 4
+Discrete mathematics 5
+Calculus 9
+Algebra 9
+Discrete mathematics 10
+English
+
+Angelina Kesting 4 7.250000 4
+Algebra 7
+Philosophy 7
+Computer programming 8
+Algebra 7
+English Russian Spanish Lithuanian
+
+Jerry Druddle 4 7.750000 4
+Operating systems 7
+Calculus 10
+Computer networks 7
+Set theory 7
+English
+
+Jamie Enderman 1 7.000000 5
+Algorithms 9
+Computer networks 6
+Algebra 6
+Computer programming 8
+Operating systems 6
+English Russian
+
+Sarah Sadman 3 7.750000 4
+Computer programming 8
+Philosophy 10
+Algebra 8
+Computer programming 5
+English
+
+Debora Wozniak 1 8.000000 2
+Discrete mathematics 10
+Philosophy 6
+English Russian French
+
+Karl Norman 4 9.500000 2
+Physics 10
+Computer networks 9
+English
+
+Julie Leben 2 8.000000 1
+Algebra 8
+English Lithuanian
+
+Jamie Sleight 4 6.166667 6
+Computer networks 5
+Set theory 6
+Calculus 5
+Set theory 8
+Computer networks 7
+Operating systems 6
+English
+
+Kim Madsen 3 8.000000 2
+Set theory 9
+Physics 7
+English Russian Spanish
+
+Kim Enderman 2 7.333333 3
+Computer networks 6
+Discrete mathematics 7
+Physics 9
+English Lithuanian
+
+Jane Norman 3 0.000000 0
+English Spanish
+
+Karl Hudson 2 9.500000 2
+Set theory 10
+Computer programming 9
+English
+
+Kim Sleight 3 8.250000 4
+Physics 9
+Philosophy 9
+Discrete mathematics 8
+Philosophy 7
+English Russian Spanish
+
+Julie Wood 2 8.500000 2
+Computer networks 8
+Operating systems 9
+English Spanish French Lithuanian
+
+Sarah Davison 1 6.000000 3
+Set theory 6
+Philosophy 5
+Computer programming 7
+English Russian Spanish Lithuanian
+
+Adam Sadman 4 10.000000 2
+Calculus 10
+Computer programming 10
+English
+
+Charlie de Vito 1 7.000000 1
+Operating systems 7
+English
+
+Debora Leben 3 10.000000 1
+Algebra 10
+English Russian Lithuanian
+
+Jim Gibbs 1 8.666667 3
+Physics 10
+Physics 6
+Operating systems 10
+English Lithuanian
+
+Victor Wood 3 8.500000 2
+Physics 9
+Discrete mathematics 8
+English
+
+Sole Brightman 4 8.333333 3
+Philosophy 10
+Set theory 6
+Calculus 9
+English
+
+Arnold Smith 3 8.800000 5
+Calculus 10
+Algorithms 7
+Algebra 9
+Algorithms 10
+Computer programming 8
+English Spanish
+
+Richard Damon 4 7.000000 3
+Discrete mathematics 6
+Computer programming 8
+Physics 7
+English Lithuanian
+
+Charlie Brightman 2 7.333333 3
+Algorithms 7
+Discrete mathematics 8
+Discrete mathematics 7
+English Lithuanian
+
+Eve Brightman 2 7.666667 3
+Physics 8
+Algorithms 8
+Computer programming 7
+English
+
+Jessie Hudson 3 8.000000 2
+Operating systems 9
+Operating systems 7
+English
+
+Helen Thornton 2 9.333333 3
+Discrete mathematics 10
+Computer programming 10
+Operating systems 5
+English Lithuanian
+
+Melissa Perry 2 5.000000 1
+Set theory 5
+English Lithuanian
+
+Robert Norman 3 8.250000 4
+Calculus 10
+Computer networks 5
+Algebra 10
+Algebra 8
+English Lithuanian
+
+Jessie Sheen 4 7.000000 3
+Discrete mathematics 6
+Computer programming 7
+Computer networks 8
+English
+
+Victor King 3 8.750000 4
+Calculus 6
+Algorithms 10
+Calculus 9
+Set theory 10
+English Lithuanian
+
+Alice Doe 2 6.500000 2
+Computer programming 5
+Computer networks 8
+English
+
+Adam Thornton 2 8.333333 3
+Discrete mathematics 10
+Set theory 5
+Computer networks 10
+English
+
+Arnold Smith 1 8.000000 3
+Calculus 7
+Algebra 10
+Algorithms 7
+English Russian French Lithuanian
+
+Kim Brightman 2 6.000000 4
+Physics 6
+Physics 5
+Algorithms 6
+Physics 7
+English
+
+Sole Lockwood 1 6.750000 4
+Computer programming 8
+Computer programming 5
+Philosophy 6
+Computer programming 8
+English
+
+Alice Wozniak 1 5.400000 5
+Algebra 5
+Algorithms 5
+Discrete mathematics 7
+Computer networks 5
+Philosophy 5
+English
+
+Jessie Madsen 1 7.750000 4
+Calculus 5
+Computer networks 9
+Set theory 7
+Set theory 10
+English
+
+Karl Lockwood 4 7.000000 1
+Physics 7
+English
+
+Karl Hudson 1 7.000000 1
+Algorithms 7
+English Spanish Lithuanian
+
+Melissa Druddle 2 4.750000 4
+Philosophy 5
+Set theory 7
+Discrete mathematics 6
+Operating systems 5
+English Russian Spanish
+
+Robert Sleight 1 8.000000 1
+Computer programming 8
+English
+
+Charlie Hat 3 8.000000 1
+Discrete mathematics 8
+English
+
+Karl Wozniak 1 9.000000 3
+Physics 7
+Algorithms 10
+Discrete mathematics 10
+English
+
+George Brighthill 1 7.200000 5
+Operating systems 8
+Computer programming 7
+Computer networks 7
+Computer networks 9
+Operating systems 5
+English Russian
+
+Jane Wood 2 8.666667 3
+Discrete mathematics 10
+Set theory 9
+Discrete mathematics 7
+English
+
+Kim Hat 4 7.500000 2
+Discrete mathematics 7
+Discrete mathematics 8
+English Russian
+
+Arnold Smith 3 9.500000 4
+Discrete mathematics 8
+Philosophy 10
+Algebra 10
+Algorithms 10
+English French Lithuanian
+
+Jamie Hat 4 8.000000 4
+Set theory 7
+Discrete mathematics 7
+Algorithms 10
+Discrete mathematics 8
+English Russian French
+
+Alex Perry 2 8.000000 1
+Physics 8
+English
+
+Jenny Gibbs 2 7.333333 3
+Philosophy 6
+Philosophy 7
+Discrete mathematics 9
+English Lithuanian
+
+Arnold Perry 4 6.000000 2
+Philosophy 5
+Operating systems 7
+English Russian
+
+Luke Wood 4 6.000000 3
+Philosophy 5
+Discrete mathematics 7
+Algebra 6
+English Lithuanian
+
+Luke Wozniak 3 6.166667 6
+Physics 7
+Operating systems 9
+Algebra 5
+Calculus 5
+Set theory 6
+Computer networks 5
+English
+
+Jerry Sheen 1 6.500000 2
+Algebra 5
+Physics 8
+English
+
+Jessie Brighthill 2 8.000000 3
+Computer programming 10
+Operating systems 7
+Discrete mathematics 7
+English French
+
+Jenny Gibson 3 8.000000 2
+Operating systems 8
+Philosophy 8
+English French
+
+Eve Sheen 4 0.000000 0
+English
+
+Helen Stapleton 2 9.000000 1
+Algebra 9
+English
+
+Alice Darry 4 6.500000 2
+Set theory 6
+Operating systems 7
+English
+
+Sarah King 1 6.000000 1
+Computer programming 6
+English Spanish Lithuanian
+
+Charlie Brightman 4 8.000000 2
+Computer networks 6
+Physics 10
+English
+
+Richard Hudson 2 7.250000 4
+Philosophy 9
+Physics 9
+Physics 6
+Operating systems 5
+English
+
+Helen Wood 2 8.500000 2
+Algebra 9
+Calculus 8
+English
+
+Angelina Smith 1 10.000000 2
+Physics 10
+Philosophy 10
+English
+
+Kim Sadman 2 5.750000 4
+Operating systems 5
+Computer programming 7
+Philosophy 6
+Philosophy 5
+English Russian
+
+Kylie Perry 2 7.666667 3
+Operating systems 9
+Algorithms 7
+Calculus 7
+English Spanish French
+
+Angelina Davison 2 7.000000 2
+Algorithms 7
+Computer networks 7
+English
+
+Victor Gibson 1 6.666667 3
+Set theory 6
+Calculus 6
+Computer networks 8
+English Lithuanian
+
+Luke Doe 1 8.000000 2
+Discrete mathematics 9
+Physics 7
+English
+
+Luke Smith 1 8.000000 6
+Algebra 7
+Operating systems 9
+Calculus 5
+Set theory 10
+Computer programming 8
+Computer networks 9
+English Spanish Lithuanian
+
+Jane Wozniak 1 6.666667 3
+Set theory 7
+Set theory 8
+Set theory 5
+English
+
+Jessie Enderman 2 7.250000 4
+Physics 8
+Computer programming 8
+Philosophy 7
+Calculus 6
+English French
+
+Arnold Kesting 4 9.000000 1
+Calculus 9
+English Spanish French
+
+Julie Lockwood 2 0.000000 0
+English French
+
+Betty Sheen 1 7.600000 5
+Computer networks 9
+Computer networks 6
+Philosophy 10
+Computer programming 5
+Set theory 8
+English
+
+Helen Brightman 2 7.500000 2
+Physics 6
+Physics 9
+English Spanish
+
+Betty Smith 2 7.333333 6
+Computer programming 5
+Discrete mathematics 7
+Algorithms 9
+Computer programming 7
+Physics 6
+Algebra 10
+English Spanish
+
+Sarah Darry 2 6.000000 1
+Algorithms 6
+English
+
+Jerry Brighthill 1 8.000000 2
+Computer networks 10
+Philosophy 6
+English Lithuanian
+
+Luke Brightman 1 7.500000 4
+Operating systems 7
+Computer networks 10
+Discrete mathematics 8
+Calculus 5
+English Lithuanian
+
+Angelina Thornton 2 5.666667 3
+Physics 5
+Operating systems 6
+Philosophy 6
+English Russian French
+
+Jenny Darry 1 6.600000 5
+Algorithms 6
+Algebra 6
+Philosophy 10
+Computer networks 6
+Algebra 5
+English Russian Lithuanian
+
+Richard Sleight 2 7.000000 1
+Operating systems 7
+English
+
+Luke Gibbs 1 10.000000 1
+Computer networks 10
+English
+
+Angelina Leben 3 8.666667 3
+Set theory 5
+Algebra 8
+Calculus 10
+English
+
+Julie Perry 2 6.000000 2
+Computer networks 6
+Philosophy 6
+English
+
+Luke Sleight 3 7.333333 3
+Set theory 6
+Set theory 6
+Physics 10
+English
+
+Charlie Wood 4 6.000000 1
+Discrete mathematics 6
+English
+
+Melissa Thornton 1 8.666667 3
+Set theory 9
+Computer networks 9
+Calculus 8
+English Lithuanian
+
+Adam Note 1 7.666667 3
+Operating systems 6
+Computer programming 8
+Algebra 9
+English
+
+Julie Doe 4 6.000000 3
+Discrete mathematics 6
+Set theory 5
+Algorithms 7
+English Spanish French
+
+Sarah Gibbs 2 5.750000 4
+Physics 5
+Computer programming 5
+Computer programming 5
+Set theory 8
+English French
+
+Jenny Sheen 1 9.500000 2
+Physics 10
+Philosophy 9
+English Russian French Lithuanian
+
+Betty Note 4 8.000000 2
+Algebra 9
+Philosophy 7
+English French
+
+Kylie Smith 4 7.500000 2
+Computer networks 5
+Computer programming 10
+English
+
+Angelina Wood 3 5.000000 1
+Physics 5
+English
+
+Eve Davison 4 10.000000 3
+Computer programming 10
+Computer networks 10
+Algebra 10
+English Spanish
+
+Jerry Perry 4 8.250000 4
+Calculus 9
+Computer networks 9
+Set theory 7
+Set theory 8
+English Lithuanian
+
+Jim Wood 4 6.333333 3
+Discrete mathematics 5
+Philosophy 5
+Philosophy 9
+English Russian
+
+Luke Stapleton 1 10.000000 1
+Calculus 10
+English Lithuanian
+
+Eve Quarry 1 8.666667 3
+Calculus 9
+Discrete mathematics 10
+Algebra 7
+English
+
+Sarah Sheen 4 8.333333 3
+Set theory 8
+Algorithms 7
+Computer networks 10
+English Russian Lithuanian
+
+Matt Madsen 4 7.400000 5
+Calculus 9
+Algorithms 6
+Calculus 6
+Computer programming 6
+Discrete mathematics 10
+English Russian Lithuanian
+
+Julie Enderman 2 6.750000 4
+Computer networks 10
+Computer programming 6
+Physics 6
+Set theory 5
+English Russian Lithuanian
+
+Jim King 3 6.666667 3
+Operating systems 8
+Computer networks 5
+Algorithms 7
+English Lithuanian
+
+George Gibbs 1 6.250000 4
+Physics 7
+Discrete mathematics 7
+Operating systems 6
+Algebra 5
+English Russian
+
+Betty Sadman 1 8.500000 4
+Computer networks 7
+Discrete mathematics 10
+Discrete mathematics 8
+Calculus 9
+English
+
+Adam Thornton 3 8.000000 2
+Algorithms 9
+Set theory 7
+English Spanish
+
+Jerry Lockwood 2 0.000000 0
+English Russian
+
+Wilhelm Norman 1 7.333333 3
+Philosophy 5
+Set theory 8
+Discrete mathematics 9
+English Russian
+
+Adam de Vito 3 6.250000 4
+Philosophy 7
+Algorithms 8
+Algebra 5
+Algorithms 5
+English Spanish Lithuanian
+
+Adam Thornton 1 6.500000 2
+Calculus 7
+Philosophy 6
+English Russian
+
+Angelina Leben 3 7.000000 2
+Computer networks 5
+Algorithms 9
+English Lithuanian
+
+Alex Brighthill 3 9.000000 3
+Physics 8
+Physics 10
+Computer networks 9
+English Russian Spanish
+
+Jenny Davison 4 7.500000 2
+Philosophy 9
+Physics 6
+English French
+
+Jessie Damon 2 7.000000 3
+Physics 6
+Operating systems 7
+Philosophy 8
+English
+
+Angelina Damon 1 7.000000 1
+Computer programming 7
+English Spanish Lithuanian
+
+Alice Kesting 1 8.000000 3
+Computer networks 8
+Physics 8
+Physics 8
+English Spanish
+
+Julie Hudson 3 6.500000 2
+Discrete mathematics 5
+Computer programming 8
+English French Lithuanian
+
+Luke Hat 2 7.333333 3
+Philosophy 7
+Algorithms 7
+Computer programming 8
+English
+
+Charlie Perry 3 8.000000 3
+Philosophy 5
+Calculus 9
+Discrete mathematics 10
+English Spanish
+
+Debora Quarry 2 7.000000 6
+Philosophy 5
+Calculus 5
+Computer programming 8
+Computer programming 9
+Computer networks 9
+Discrete mathematics 6
+English Spanish Lithuanian
+
+Jim Damon 4 8.000000 3
+Operating systems 10
+Set theory 6
+Physics 8
+English Russian Spanish Lithuanian
+
+Robert Wood 4 7.500000 4
+Computer networks 6
+Algebra 5
+Discrete mathematics 9
+Computer networks 10
+English Russian
+
+Alice Gibson 1 6.000000 1
+Algebra 5
+English Russian French
+
+Debora Smith 3 7.750000 4
+Operating systems 8
+Computer programming 8
+Algebra 9
+Operating systems 6
+English French
+
+Jane Sleight 2 8.250000 4
+Computer networks 5
+Computer programming 9
+Physics 5
+Operating systems 10
+English French Lithuanian
+
+Victor Druddle 3 7.250000 4
+Algebra 5
+Algorithms 5
+Set theory 8
+Computer networks 7
+English Russian Spanish French
+
+Kylie Doe 3 8.333333 3
+Philosophy 10
+Discrete mathematics 6
+Computer networks 9
+English Russian
+
+Charlie de Vito 3 5.250000 8
+Computer networks 5
+Philosophy 5
+Computer programming 5
+Calculus 5
+Operating systems 7
+Algebra 8
+Physics 7
+Operating systems 8
+English Russian
+
+Robert Davison 4 7.500000 4
+Algebra 5
+Computer programming 8
+Physics 7
+Philosophy 10
+English
+
+Richard Sadman 2 5.000000 1
+Operating systems 5
+English Russian
+
+Charlie King 1 8.000000 4
+Computer networks 6
+Set theory 7
+Algebra 10
+Computer programming 9
+English Russian Lithuanian
+
+Julie de Vito 2 8.000000 2
+Discrete mathematics 7
+Algorithms 9
+English French Lithuanian
+
+Matt Kesting 3 8.000000 4
+Discrete mathematics 9
+Computer programming 9
+Calculus 7
+Set theory 7
+English
+
+Kylie Stapleton 2 7.000000 4
+Set theory 8
+Computer networks 5
+Algebra 8
+Computer networks 7
+English Spanish
+
+Melissa Hat 2 8.000000 3
+Algebra 8
+Physics 8
+Philosophy 8
+English Russian
+
+Melissa Hudson 4 7.000000 2
+Philosophy 8
+Computer programming 6
+English French
+
+Richard Hudson 4 8.250000 4
+Physics 7
+Set theory 9
+Algebra 9
+Set theory 8
+English
+
+Karl Perry 1 7.666667 3
+Algebra 9
+Calculus 7
+Algebra 7
+English French
+
+Alice Brighthill 3 6.666667 3
+Calculus 5
+Algorithms 10
+Physics 5
+English Spanish
+
+Richard Darry 1 7.750000 4
+Algorithms 8
+Algebra 5
+Algebra 8
+Algebra 10
+English Spanish French
+
+Eve Doe 3 8.250000 4
+Discrete mathematics 10
+Computer networks 6
+Calculus 10
+Operating systems 7
+English Russian
+
+Robert Gibson 4 6.000000 2
+Computer programming 7
+Computer networks 5
+English Russian
+
+Jenny Enderman 4 8.250000 4
+Discrete mathematics 10
+Physics 5
+Algebra 10
+Set theory 8
+English Lithuanian
+
+Betty Hudson 2 7.333333 3
+Computer programming 5
+Physics 8
+Algebra 9
+English
+
+Sarah Damon 1 6.500000 4
+Operating systems 7
+Physics 7
+Discrete mathematics 7
+Physics 5
+English
+
+Karl Hat 1 7.750000 4
+Computer networks 7
+Operating systems 5
+Set theory 10
+Discrete mathematics 9
+English
+
+Jim Stapleton 2 8.000000 1
+Algorithms 8
+English Spanish Lithuanian
+
+Melissa Enderman 1 6.250000 4
+Set theory 5
+Physics 5
+Computer networks 5
+Discrete mathematics 10
+English
+
+Wilhelm Quarry 3 8.666667 3
+Computer networks 8
+Calculus 10
+Algorithms 8
+English French Lithuanian
+
+Debora Lockwood 2 7.250000 4
+Philosophy 7
+Discrete mathematics 9
+Philosophy 7
+Calculus 6
+English Spanish Lithuanian
+
+Julie Brightman 4 7.500000 4
+Computer programming 8
+Calculus 9
+Discrete mathematics 7
+Philosophy 6
+English
+
+Kim Sleight 4 7.000000 4
+Computer networks 8
+Algebra 6
+Calculus 9
+Computer networks 5
+English Spanish French Lithuanian
+
+Kim Leben 4 6.333333 3
+Discrete mathematics 5
+Algebra 8
+Physics 6
+English French
+
+Alice Doe 3 6.000000 3
+Computer programming 5
+Set theory 5
+Physics 8
+English French
+
+Wilhelm Leben 3 6.000000 1
+Calculus 6
+English
+
+Jessie Brightman 4 8.500000 2
+Operating systems 10
+Operating systems 7
+English Russian
+
+Victor Madsen 4 6.333333 3
+Computer programming 5
+Algebra 7
+Calculus 7
+English Russian
+
+Melissa King 4 8.250000 8
+Operating systems 10
+Philosophy 7
+Computer networks 6
+Calculus 8
+Algorithms 6
+Calculus 10
+Physics 10
+Physics 9
+English Lithuanian
+
+Jenny Wood 3 8.500000 2
+Discrete mathematics 9
+Set theory 8
+English Spanish French Lithuanian
+
+Julie Kesting 1 7.500000 2
+Calculus 7
+Philosophy 8
+English Spanish French
+
+Sole Wozniak 3 6.666667 3
+Algorithms 7
+Operating systems 6
+Algorithms 7
+English
+
+Debora Darry 4 6.000000 1
+Discrete mathematics 5
+English Russian Spanish Lithuanian
+
+Alice Gibson 2 8.000000 1
+Operating systems 9
+English
+
+Jenny Hat 1 9.000000 1
+Physics 9
+English French Lithuanian
+
+Jim Leben 4 8.000000 3
+Set theory 10
+Algorithms 6
+Algorithms 8
+English Russian
+
+Jamie Note 1 0.000000 0
+English French
+
+Robert Thornton 2 6.000000 3
+Calculus 8
+Physics 5
+Calculus 5
+English
+
+Filter applied, 579 students found
