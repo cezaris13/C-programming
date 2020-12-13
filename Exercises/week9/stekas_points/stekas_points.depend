@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606591715 source:/home/pijus/Desktop/Programming/University/Exercises/week9/stekas_points/main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1606756379 source:/home/pijus/Desktop/Programming/University/Exercises/week10/strlen/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+

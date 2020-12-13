@@ -2,13 +2,12 @@
 #include <stdlib.h>
 
 void nuskaitymas(int **arr, int size, int *min, int *max){//vienas pakeitimas kita savaite ( sita funkcija jau praodyta)
-    *arr=calloc(size,sizeof(int*));
+    *arr=malloc(size*sizeof(int*));
     for(int i=0;i<size;i++){
         scanf("%d",((*arr)+i));
-        *max=(i==0?*arr[i]:(*max<*((*arr+i))?*((*arr+i)):*max));//max ir min reiksmiu radimas
-        *min=(i==0?*arr[i]:(*min>*((*arr+i))?*((*arr+i)):*min));
+        *max=(i==0?*arr[i]:(*max<*(*arr+i)?*(*arr+i):*max));//max ir min reiksmiu radimas
+        *min=(i==0?*arr[i]:(*min>*(*arr+i)?*(*arr+i):*min));
     }
-   // return arr;
 }
 void isvedimas(int *arr, int size, int min,int max){
     printf("masyvo elementai be min ir max reiskmiu\n");
