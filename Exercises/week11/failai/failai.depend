@@ -1,12 +1,14 @@
 # depslib dependency file v1.0
-1606759530 source:/home/pijus/Desktop/Programming/University/Exercises/week11/failai/main.c
+1608388481 source:/home/pijus/Desktop/Programming/University/Exercises/week11/failai/main.c
 	<stdio.h>
 	<stdlib.h>
+	<time.h>
+	"file.h"
+
+1608388758 /home/pijus/Desktop/Programming/University/Exercises/week11/failai/file.c
+	<stdlib.h>
+	<stdio.h>
+
+1608388765 /home/pijus/Desktop/Programming/University/Exercises/week11/failai/file.h
 	"file.c"
-	"file.h"
-
-1606759892 /home/pijus/Desktop/Programming/University/Exercises/week11/failai/file.c
-	"file.h"
-
-1606759966 /home/pijus/Desktop/Programming/University/Exercises/week11/failai/file.h
 
