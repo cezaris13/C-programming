@@ -3,25 +3,29 @@
 #include "sarasas.h"
 
 int main(){
-    Node *pradzia;
-    pradzia = NULL;
-    int n,pos;
+    Node *head;
+    head = NULL;
+    int n,pos,val;
     printf("iveskite kokio dydzio saraso noresite:");
     scanf("%d",&n);
-    create_nodes(n,&pradzia);
-    Spausdinti_Sarasa(pradzia);
-    printf("\nspaudinami elementai nuo 1 iki n naudojant print_element() funkcija\n");
-    for(int i=1;i<=n;i++){
-         print_element(i,pradzia);
-    }
+    CreateList(n,&head);
+    PrintList(head);
+    printf("\niveskite elementa, kuri norite pamatyti:");
+    scanf("%d",&pos);
+    PrintElement(pos,head);
     printf("\niveskite elementa kuri norite istrinti:");
     scanf("%d",&pos);
-    delete_node(pos,&pradzia);
+    DeleteNode(pos,&head);
     printf("\nspausdiname vienpusi sarasa istrynus reiksme\n");
-    Spausdinti_Sarasa(pradzia);
+    PrintList(head);
+    printf("\niveskite elemento reiksme ir pozicija i kuria norite iterpti");
+    scanf("%d %d",&val,&pos);
+    InsertNode(pos,val, &head);
+    printf("\nspausdiname vienpusi sarasa iterpus reiksme\n");
+    PrintList(head);
     printf("triname visa vienpusi sarasa\n");
-    delete_nodes(&pradzia);
+    DeleteNodes(&head);
     printf("\n");
-    Spausdinti_Sarasa(pradzia);
+    PrintList(head);
     return 0;
 }
