@@ -46,7 +46,6 @@ int main(){
         t = clock() - t;
         printReport(options[4],t);
         vals[4]=(isSorted(data,size)?1:0);
-
         max=(max<strlen(Title)?strlen(Title):max);
         for(int i=0;i<menu_size;i++){
               max=(max<strlen(options[i])?strlen(options[i]):max);

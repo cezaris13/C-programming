@@ -6,5 +6,11 @@
 	<string.h>
 	"sorts.h"
 
-1607243369 /home/pijus/Desktop/Programming/University/Exercises/week12/sorts/sorts.h
+1608626507 /home/pijus/Desktop/Programming/University/Exercises/week12/sorts/sorts.h
+	"sorts.c"
+
+1608626307 /home/pijus/Desktop/Programming/University/Exercises/week12/sorts/sorts.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
 
