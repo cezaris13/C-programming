@@ -1,13 +1,13 @@
 # depslib dependency file v1.0
-1608621529 source:/home/pijus/Desktop/Programming/University/Lexercises/uzduotys/4_uzd/main.c
+1609829340 source:/home/pijus/Desktop/Programming/University/Lexercises/uzduotys/4_uzd/main.c
 	<stdio.h>
 	<stdlib.h>
 	"sarasas.h"
 
-1608621342 /home/pijus/Desktop/Programming/University/Lexercises/uzduotys/4_uzd/sarasas.h
+1608624499 /home/pijus/Desktop/Programming/University/Lexercises/uzduotys/4_uzd/sarasas.h
 	"sarasas.c"
 
-1608621467 /home/pijus/Desktop/Programming/University/Lexercises/uzduotys/4_uzd/sarasas.c
+1609830995 /home/pijus/Desktop/Programming/University/Lexercises/uzduotys/4_uzd/sarasas.c
 	<stdlib.h>
 	<stdio.h>
 	<time.h>

@@ -1,15 +1,15 @@
 # depslib dependency file v1.0
-1607177030 source:/home/pijus/Desktop/Programming/University/Exercises/week12/sorts/main.c
+1608911055 source:/home/pijus/Desktop/Programming/University/Exercises/week12/sorts/main.c
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
 	<string.h>
 	"sorts.h"
 
-1608626507 /home/pijus/Desktop/Programming/University/Exercises/week12/sorts/sorts.h
+1608626530 /home/pijus/Desktop/Programming/University/Exercises/week12/sorts/sorts.h
 	"sorts.c"
 
-1608626307 /home/pijus/Desktop/Programming/University/Exercises/week12/sorts/sorts.c
+1608911035 /home/pijus/Desktop/Programming/University/Exercises/week12/sorts/sorts.c
 	<stdlib.h>
 	<stdio.h>
 	<time.h>
