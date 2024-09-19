@@ -380,3 +380,24 @@ rinkinio rezultatai.
 b) Atlikite eksperimentus realizuotų algoritmų efektyvumui įvertinti. Eksperimento rezultatus atspausdinkite main
 funkcijoje, nurodydami kiek operacijų/laiko reikėjo vienam ar kitam algoritmui. Naudodamiesi globaliais kintamaisiais, suskaičiuokite kiek priskyrimo ir kiek palyginimo operacijų atliko kiekvienas iš algoritmų; išmatuokite, kiek sekundžių algoritmas dirbo (tam pasinaudokite <time.h>
 aprašytomis funkcijomis)
+
+
+
+LAB Assignments
+
+ Įvesti sveiką skaičių G. Įvesti sveikų skaičių seką, kurios pabaiga žymima skaičiumi
+G. Išvesti visų įvestų narių skaičių, teigiamų narių skaičių ir neigiamų narių sumą bei
+sandaugą (arba atitinkamą pranešimą, jeigu tokių nėra).
+
+
+Įvesti sveiką skaičių N. Įvesti N sveikų skaičių a1
+, a2
+, ... aN. Apskaičiuoti, kiek yra
+skaičių lygių maksimumui ir kiek lygių minimumui. Išvesti įvestus skaičius, išmetus
+lygius maksimumui ir minimumui.
+
+
+Parašyti funkciją, kuri žodyje esančius skaitmenis pakeičia pirmąja to žodžio raide.
+
+n1. Sudaryti vienpusį sąrašą. Parašyti procedūrą, kuri išmeta numeriu nurodytą elementą.
+Jeigu tokio elemento nėra, turi būti išvestas atitinkamas pranešimas.
