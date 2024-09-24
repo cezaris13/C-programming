@@ -1,92 +1,72 @@
-UŽDUOTIS:
-Sukurkite dalį vartotojo sąsajos, parašydami išvedimo sakinius pateiktai programai:
-a) peržiūrėkite programos demonstraciją – užduoties tikslas yra pagaminti kodą programos, kuri veiktų taip, kaip veikia demonstruojama programa. Atsisiųskite kodo failą ui.c. Užduočiai atlikti, papildykte šį failą išvedimo sakiniais. Sakinius rašykite main funkcijos viduje, vietoje ten esančių komentarų, prasidedančių žodžiais “report” (šioje vietoje turi būti pateikiama informacija vartotojui) arba “ask” (šioje vietoje turi būti prašoma informacijos iš vartotojo) ir taip žyminčių vietas, kur kažką reikia rašyti; kitus komentarus palikite nepakeistus
-b) Jūsų parengta programa iš failo ui.c turi taip, kaip veikia demonstracinė programa. Nuodugniai ištestuokite savo programą, kad įsitikintumėte, jog taip ir yra. Visi demonstracinės programos spausdinami pranešimai privalo būti (identiškai) pateikti ir jūsų programoje, tačiau atsižvelgiant į komentarus kode, galite (turite) papildyti vartotojo sąsają, spausdindami pranešimus daugiau/geriau, nei tai atliekama demonstracinėje programoje.
----
-UŽDUOTIS 1. Vartotojas įveda tris sveikus skaičius (a, b, c). Programa turi atspausdinti kvadratinės lygties ax2+bx+c=0
-sprendinių skaičių ir, jei sprendinių yra, jų reikšmes.
+# Procedural programming tasks implemented during the course the same name in Vilnius university in first year (Autumn semester)
 
-UŽDUOTIS 2. Vartotojas įveda tris sveikus skaičius (a, b, c). Programa turi atspausdinti visus teigiamus sveikus skaičius iš
-intervalo (a; b], kurie dalijasi iš skaičiaus c su liekana 1.
+## Laboratory work Assignments
 
-UŽDUOTIS 3. Vartotojas įveda tris neneigiamus sveikuosius skaičius (a, b, c). Programa turi atspausdinti c-ąjį skaičių f_c, kur
-f_c=f_(c-1)+f_(c-2), o f_0 = a ir f_1 = b. Jei a=0 ir b=1, f_c yra c-asis garsiosios Fibonačio sekos skaičius.
+1. Enter an integer G. Enter a sequence of integers ending with a number G. Derive the number of all entered terms, the number of positive terms and the sum of the negative terms and the sum of the negative numbers (or the corresponding message if none). [Solution](./LaboratoryAssignments/Assignments/Lab1/main.c)
 
-UŽDUOTIS 4. Vartotojas įveda tris natūraliuosius skaičius (a, b, c). Programa turi atspausdinti du skaičius – šių trijų skaičių
-didžiausią bendrąjį daliklį (DBD) bei mažiausiąjį bendrą kartotinį (MBK).
+1. Enter an integer N. Enter N integers a1, a2, ... aN. Calculate how many are numbers equal to the maximum and how many equal to the minimum. Derive the numbers entered by discarding equal to the maximum and minimum. [Solution](./LaboratoryAssignments/Assignments/Lab2/main.c)
 
-UŽDUOTIS 5. Vartotojas įveda skaičių n, o po to – n realiųjų skaičių. Programa turi suskaičiuoti šių skaičių sumą ir vidurkį,
-o taip pat mažiausią (minimumą) ir didžiausią (maksimumą) reikšmes.
+1. Write a function that replaces the digits in a word with the first letter of that word.  [Solution](./LaboratoryAssignments/Assignments/Lab3/main.c)
 
-UŽDUOTIS 6. Vartotojas įveda teigiamų skaičių seką, kurios pabaigą žymi pirma įvesta neteigiama reikšmė. Programa turi
-rasti, kuris skaičius tarp įvestųjų turi daugiausiai skaitmenų.
+1. Make a one-way linked list. Write a procedure that throws away the item, when index of it is provided. If there is no such element, a corresponding message must be output. [Solution](./LaboratoryAssignments/Assignments/Lab4/main.c)
 
----
+## Lecture homework tasks
 
-UŽDUOTIS:
-Parašykite kodo fragmentą, kuris nuskaito tris vartotojo įvestus sveikuosius skaičius, ir tarp jų randa maksimalią
-(arba minimalią) reikšmę.
-Svarbu: sąlygos sakinių (if) naudoti negalima ir spausdinant atsakymą žodį „printf“ galima rašyti tik vieną kartą.
-• Parašę programą, ją nuodugniai ištestuokite (viso 6+6+1 testų). Jei norite, laiko taupymui galite įkoduoti kiekvieną
-iš testų, priskirdami kintamiesiems reikšmes ir greta spausdindami gautą ir turėtą gauti reikšmę. Tokiu atveju
-rekomenduojama parašytą kodo fragmentą apibrėžti kaip atskirą funkciją (jei mokate), tai stipriai sumažins kodo
-dubliavimąsi.
-• Optimalus algoritmas randa atsakymą įvykdęs lygiai dvi palyginimo operacijas. Pačiame algoritme (nevykdomų)
-palyginimo operacijų gali būti ir daugiau.
+### Week 2
 
----
+- Write a maximum function without comparing the variables and using if statements. Write some tests nad execute them in the main() function. [Solution](/LectureExercises/week2/maxi/main.c)
+### Week 3
 
-UŽDUOTIS:
-Užduoties esmė – parašyti kodą C kalba, kuris pagal tam tikrus (žr. komentarus žemiau) kriterijus filtruoja duomenis pateiktame duomenų faile ir leidžia gauti vienos ar kitos užklausos rezultatą.
-Šioje užduotyje naudojami failai:
-generator.c – programa, skirta sukurti duomenų failą db.bin
-db.bin – duomenų failas, iš kurio užklausų pagalba reikės gauti reikiamą informaciją
-query_engine.c – programos, skirtos apdoroti duomenų failą db.bin, skeletas
-report.txt – tekstinis failas, kuriame nurodytu formatu rašoma ataskaita apie įvykdytų užklausų rezultatus
-query1.c – failas, kuriame įgyvendintas filtravimas pagal atitinkamos (query1) užklausos sąlygą
-query2.c – ...
+The task is to write a C code that filters the data in a given data file according to certain criteria (see comments below) and allows you to retrieve the result of one or other query.
+The files used in this assignment are:
+generator.c - a program to create the data file db.bin
+db.bin - the data file from which the queries will need to retrieve the required information
+query_engine.c - the skeleton of the program to process the data file db.bin
+report.txt - a text file containing a report on the results of executed queries in a specified format
+query1.c - a file that implements filtering based on the condition of the corresponding query (query1)
+query2.c - ...
 ...
 
-Pradinis testas
-Prieš pradėdami, įsitikinkite, kad pateiktos programos veikia, kaip turėtų, ir galėsite su jomis sėkmingai dirbti. Pastebėję
-problemų, kreipkitės į pratybų dėstytoją.
-1. atsisiųskite failą generator.c ir jį sėkmingai sukompiliuokite, gautą programą paleiskite per terminalą su vienu parametru, kuris nurodo norimos gauti duomenų bazės dydį. Ekrane turėtumėte pamatyti generuojamus įrašus
-su studentų duomenimis, o einamajame kataloge programai pasibaigus turėtų atsirasti failas db.bin, kuriame tie
-įrašai išsaugoti. Testą rekomenduojama atlikti su 999 įrašais – būtent tiek reikės, kad sėkmingai atlikti šią užduotį.
-2. Atsisiųskite failą query_engine.c ir jį sėkmingai sukompiliuokite, gautą programą paleiskite ir įsitikinkite, kad
-ekrane gaunate tiek duomenų, kiek sugeneravote, t. y. 999 įrašus.
+#### Initial test
+Before you start, make sure that the applications provided work as they should and that you can work with them successfully. If you notice
+problems, contact the tutor of the exercises.
+1. download the file generator.c and compile it successfully, then run the resulting program through a terminal with one parameter that specifies the size of the database to be obtained. You should see the generated records on the screen
+with the student data, and when the program finishes, you should see a file db.bin in the current directory containing the
+records are saved. It is recommended that you run the test with 999 records, which is the number you will need to complete the task successfully.
+2. Download the file query_engine.c and compile it successfully, run the resulting program and make sure that
+you get the same amount of data on the screen as you generated, i.e. 999 records.
 
-Pasirengimas darbui
-Jei testą įvykdėte sėkmingai, pasirenkite tolimesniam darbui.
-1. Peržvelkite query_engine.c faile esantį kodą ir prieš tęsdami įsitikinkite, kad suprantate programos veikimą ir
-pagrindinius žingsnius.
-2. Perskaitykite komentarus apie saugomus studentų duomenis, įsitikinkite, jog suprantate, ką jie reiškia.
-3. Einamojo studento duomenys spausdinami ekrane 48, 53 ir 56 eilutėse. Suformatuokite išvedimą taip, kad jis
-būtų aiškus ir būtų galima atsirinkti kas kur yra ir atskirti reikšmes vieną nuo kitos.
-4. Generatoriaus pagalba sugeneruokite mažesnės apimties (10, 20, 50, 100, etc) duomenų failą, kurį naudosite
-savo kodo testavimui. Esant poreikiui šį failą bet kada galima pergeneruoti.
+#### Getting ready for work
+If you have successfully completed the test, you are ready for the next step.
+1. Review the code in the query_engine.c file and make sure you understand the operation of the program before proceeding
+basic steps.
+2. Read the comments about the stored student data to make sure you understand what they mean.
+3. The current student data is printed on the screen on lines 48, 53 and 56. Format the output so that it
+clear so that you can see what is where and distinguish between the values.
+4. Use the generator to generate a smaller (10, 20, 50, 100, etc.) data file for use
+for testing your code. This file can be regenerated at any time if needed.
 
-Užduoties rezultatai
-Užduotims atlikti, modifikuokite failą query_engine.c. Daliai užduočių atlikti pakaks modifikuoti tiktai eilutes, pažymėtas
-trimis žvaigždutėmis, su sąlygos sakiniais, įgyvendinančiais filtravimą. Spręsdami užduotis, kiekvieną užklausą atitinkančią
-programą išsisaugokite atskirai, atskirame faile (query1.c, query2.c ir t.t.). Šių failų reikės pratybų pabaigoje ataskaitai
-report.txt pildyti.
+#### Task results
+To complete the tasks, modify the file query_engine.c. For some of the tasks, it will be sufficient to modify only the lines marked
+marked with three asterisks, with conditional sentences that implement filtering. As you solve the tasks, for each query corresponding to
+program separately in a separate file (query1.c, query2.c, etc.). These files will be needed for the report at the end of the exercise
+report.txt.
 
-Užduoties pabaigoje reikės:
-1. Iš naujo sugeneruoti naujų duomenų failą db.bin su 999 įrašais
-2. Susikurti (rankomis) failą report.txt
-3. Paleisti kiekvieną iš įgyvendintų užklausų (query1, query4, etc) ir gautus duomenis užrašyti faile report.txt pagal
-žemiau nurodytą formatą
-4. Suarchyvavus įkelti į VU VMA naudotus duomenis (db.bin), užklausų kodus (query1.c, query4.c, etc) ir ataskaitą
-(report.txt), kurioje matosi, ką gavote, vykdydami savo užklausas savo sugeneruotiems duomenims.
+At the end of the task you will need to:
+1. re-generate a new data file db.bin with 999 entries
+2. Create (manually) a report.txt file
+3. Run each of the implemented queries (query1, query4, etc.) and write the resulting data to the report.txt file according to
+the following format
+4. After archiving, upload the used data (db.bin), the query codes (query1.c, query4.c, etc.) and the report to VU VMA
+(report.txt) showing what you got by running your queries on your generated data.
 
-Ataskaitos formatas
+Report format
 QUERY1
-[filtrą tenkinančių studentų skaičius]
-Vardas Pavardė …
-Vardas Pavardė …
-Vardas Pavardė …
-…
+[number of students meeting the filter]
+First Name Last Name ...
+First Name Last Name ...
+First Name Last Name ...
+...
 QUERY4
 ...
 Paaiškinimas: neprivaloma atlikti visas užklausas. Ataskaitų faile rašomos tik tos užklausos, kurias įgyvendinote. Failą
@@ -95,72 +75,93 @@ reikia užrašyti, kiek studentų tenkina duotą užklausą. Jei skaičius teigi
 tenkinusių studentų įrašų duomenis (privaloma Vardas ir Pavardė, kitkas savo nuožiūra, kaip patogiau). Jei studentų
 mažiau nei trys, įkelkite kiek yra, jei daugiau – vietoje ketvirtos ir vėlesnių eilučių dėkite daugtaškį.
 
-Užklausos
-Standartinės užklausos:
-QUERY 1. Studentai nepasirinkę nei vieno kurso.
-QUERY 2. Studentai, kurių vidurkis 5.0 ir didesnis.
-QUERY 3. Studentai, kurių vardas prasideda priebalse.
-QUERY 4. Studentai, kurie yra antrame arba trečiame kurse.
-QUERY 5. Studentai, kurių vardas yra ilgesnis už pavardę.
-QUERY 6. Studentai, kurie neturi neigiamų pažymių.
-QUERY 7. Studentai, kurių pažymiai tarp 6 ir 9 imtinai.
-QUERY 8. Studentai, kurie mokosi „Calculus“ ir „Algebra“.
-QUERY 9. Studentai, kurie mokosi „Philosohpy“ ir išlaikė egzaminą (>4).
-QUERY 10. Studentai, kurie moka „Lithuanian“ kalbą.
-QUERY 11. Studentai, kurie mokosi „Philosohpy“ arba turi dešimtukų.
-Sudėtingesnės užklausos:
-QUERY 12. Studentai, kurie moka daugiausiai kalbų.
-QUERY 13. Studentai, kurių pažymių vidurkis suskaičiuotas neteisingai.
-QUERY 14. Studentai, kurie neturi kursų, kuriuose jie būtų vieninteliu studentu.
-QUERY 15. Studentai, kurie nuo geriausio studento atsilieka ne daugiau nei per vieną balą.
-QUERY 16. Studentai, kurių įrašuose dubliuojasi kalba arba kursas.
-QUERY 17. Studentai, kurių įrašuose tam pačiam kursui išsaugoti skirtingi įvertinimai.
-QUERY 18. Studentai, kurių arba vardas, arba pavardė duomenų bazėje yra unikalūs.
+#### Queries
+Standard queries:
+QUERY 1. Students who have not chosen any course. [Solution](/LectureExercises/week3/procedurinis/query1.c)
+QUERY 2. Students with an average of 5.0 or higher. [Solution](/LectureExercises/week3/procedurinis/query2.c)
+QUERY 3. Students whose name begins with a consonant. [Solution](/LectureExercises/week3/procedurinis/query3.c)
+QUERY 4. Students who are in their second or third year. [Solution](/LectureExercises/week3/procedurinis/query4.c)
+QUERY 5. Students whose first name is longer than their last name. [Solution](/LectureExercises/week3/procedurinis/query5.c)
+QUERY 6. Students who do not have negative grades. [Solution](/LectureExercises/week3/procedurinis/query6.c)
+QUERY 7. Students with grades between 6 and 9 inclusive. [Solution](/LectureExercises/week3/procedurinis/query7.c)
+QUERY 8. Students who study Calculus and Algebra. [Solution](/LectureExercises/week3/procedurinis/query8.c)
+QUERY 9. Students who study "Philosohpy" and pass the exam (>4). [Solution](/LectureExercises/week3/procedurinis/query9.c)
+QUERY 10. Students who know "Lithuanian" language. [Solution](/LectureExercises/week3/procedurinis/query10.c)
+QUERY 11. Students who are studying "Philosohpy" or have 10s. [Solution](/LectureExercises/week3/procedurinis/query11.c)
+More complex queries:
+QUERY 12. Students who know the most languages. [Solution](/LectureExercises/week3/procedurinis/query12.c)
+QUERY 13. Students whose grade point average is wrong. [Solution](/LectureExercises/week3/procedurinis/query13.c)
+QUERY 14. Students who do not have a course in which they are the only student. [Solution](/LectureExercises/week3/procedurinis/query14.c)
+QUERY 15. Students who are within one grade of the top student. [Solution](/LectureExercises/week3/procedurinis/query15.c)
+QUERY 16. Students with duplicate language or course entries. [Solution](/LectureExercises/week3/procedurinis/query16.c)
+QUERY 17. Students with different grades stored on their records for the same course. [Solution](/LectureExercises/week3/procedurinis/query17.c)
+QUERY 18. Students with unique names in the database. [Solution](/LectureExercises/week3/procedurinis/query18.c)
+### Week 4
 
----
+#### TASK 1.
 
-Atmintinė.
-• Pirmo masyvo elemento indeksas yra 0, paskutini s yra capacity 1 , kur capacity yra masyvo talpa
-• Masyvo dydis gali kisti intervale [0; CAPACITY], o elementai pasiekiami per indeksus iš intervalo [0; size 1]
+ The user enters three integers (a, b, c). The program must print the quadratic equation ax2+bx+c=0
+the number of solutions and, if there are solutions, their values. [Solution](/LectureExercises/week4/radavicius_4uzd/1uzd.c)
 
-Užduotis 1.
-Parašykite programą, kuri savo viduje iš eilės vieną po kito atlieka TIKSLIAI šiuos žingsnius:
-a) apibrėžia masyvą, galinti sutalpinti 10 elementų, tame pačiame sakinyje inicializuodama juos nulinėmis reikšmėmis
-b) atspausdina visą masyvą į ekraną
-c) pačiam pirmam, ketvirtam ir dešimtam masyvo elementams priskiria reikšmes
-atitinkamai 1, 2 ir 3
-d) ištrina iš masyvo trečią elementą
-e) įterpia į masyvą naują elementą su reikšme 4, taip, kad po įterpimo jis būtų septintas
-f) atspausdina visą masyvą į ekraną
-g) paprašo vartotojo įvesti du skaičius (x ir y), ir masyvo elementui s
-u indeksu x nustato naują reikšmę, lygią y
-h) paprašo vartotojo įvesti vieną skaičių (x), ir ištrina iš masyvo elementą su indeksu x
-į) paprašo vartotoją įvesti du skaičius (x ir y), ir į masyvą įterpia naują elementą su reikšme y, taip, kad po įterpimo jo
-indeksas būtų x
-j) atspausdina visą masyvą į ekraną
+#### TASK 2.
 
-Užduotis 2.
-Parašykite programą, kurios viduje apibrėžiamas masyvas, galintis sutalpinti 1000 elementų. Ši programa turi paprašyti
-vartotojo įvesti tris skaičius (a, b, c), į masyvą įrašyti c atsitiktinai sugeneruotų reikšmių, kurių kiekviena priklauso
-intervalui [a; b], ir atspausdinti masyvo turinį (tas c reikšmių) į ekraną.
-• Kad gautumėte atsitiktinį skaičių, pasinaudokite rand() funkcija iš <stdlib.h>, kuri leidžia gauti atsitiktinį skaičių iš
-intervalo [0; RAND_MAX]
-• Sugeneruotą reikšmę reikės transformuoti taip, kad ji papultų į nurodytą intervalą, aritmetinių operacijų pagalba
-• Kad keletą kartų paleidus programą gautumėte vis ki tus skaičius, pasinaudokite funkcija srand() iš <stdlib.h>,
-kuriai paduokite kaskart kitokį skaičių. Vienas iš sprendimų pasinaudoti funkcija time(NULL) iš <time.h>, kad
-atsitiktinių skaičių generatorius būtų inicializuojamas priklausomai nuo nuolat kint ančio programos paleidimo
-laiko momento.
+The user enters three integers (a, b, c). The program must print all positive integers from
+the interval (a; b] which are divisible by c with remainder 1. [Solution](/LectureExercises/week4/radavicius_4uzd/2uzd.c)
 
-Užduotis 3.
-Parašykite programą, kuri paprašo vartotojo įvesti du skaičius (s ir n), o po to nuskaito lygiai n teigiamų būsimo masyvo
-x elementų reikšmių. Jei reikšmė neteigiama – prašykite kartoti tos reikšmės įvedimą. Programa turi atspausdinti visas masyve esančių skaičių poras (x_i, x_j) tokias kad x_i ir x_j sandauga yra lygi s.
+#### TASK 3.
 
-Užduotis 4.
-Parašykite programą, kuri leidžia vesti ir įsimena vartotojo vedamus teigiamus skaičius iki tol, kol jis įveda pirmą
-neteigiamą reikšmę. Programa turi atspausdinti visus įvestus pirminius skaičius, kiekvieną pirminį skaičių spausdindama
-tik vieną kartą, t. y. išvedant rezultatus sykį jau atspausdinta pirminio skaičiaus reikšmė nebekartojama.
+The user enters three non-negative integers (a, b, c). The program must print the cth number f_c, where
+f_c=f_(c-1)+f_(c-2) and f_0 = a and f_1 = b. If a=0 and b=1, f_c is the c-th number of the Fibonacci sequence. [Solution](/LectureExercises/week4/radavicius_4uzd/3uzd.c)
 
----
+#### TASK 4.
+
+The user enters three natural numbers (a, b, c). The program must print two numbers - the three numbers
+the greatest common divisor (GCD) and the least common multiple (LCM). [Solution](/LectureExercises/week4/radavicius_4uzd/4uzd.c)
+
+#### TASK 5.
+
+ The user enters the number n followed by n real numbers. The program must calculate the sum and the average of these numbers,
+and the minimum (minimum) and maximum (maximum) values. [Solution](/LectureExercises/week4/radavicius_4uzd/5uzd.c)
+
+#### TASK 6.
+
+ The user enters a sequence of positive numbers, the end of which is marked by the first non-positive value entered. The program shall
+find which number has the highest number of digits among those entered. [Solution](/LectureExercises/week4/radavicius_4uzd/6uzd.c)
+### Week 5
+#### Task 1.
+Write a program that performs EXACTLY the following steps in sequence within itself:
+(a) defines an array that can hold 10 elements, initializing them with zero values in the same sentence
+(b) prints the entire array on the screen
+(c) assign values to the very first, fourth and tenth elements of the array 1, 2 and 3 respectively
+(d) delete the third element from the array
+(e) insert a new element into the array with the value 4, so that it is the seventh element after the insertion
+(f) print the entire array to the screen
+(g) ask the user to enter two numbers (x and y), and for array element s
+with index x sets a new value equal to y
+(h) ask the user to enter one number (x), and delete the element with index x from the array
+(c) asks the user to enter two numbers (x and y), and inserts a new element with the value y into the array, so that after the insertion index is x
+(j) print the entire array to the screen [Solution](/LectureExercises/week5/5uzd/1uzd.c)
+
+
+#### Task 2.
+Write a program that defines an array that can hold 1000 elements. This program must ask
+the user to enter three numbers (a, b, c), to write c randomly generated values into the array, each of which belongs
+to the interval [a; b], and print the contents of the array (those c values) to the screen.
+- To obtain a random number, use the rand() function from <stdlib.h>, which allows you to obtain a random number from
+the range [0; RAND_MAX]
+- You will need to transform the generated value so that it fits into the specified range using arithmetic operations
+- To get the same numbers repeatedly after running the program, use the srand() function from <stdlib.h>,
+to which you pass a different number each time. One solution is to use the function time(NULL) from <time.h> to
+the random number generator is initialized depending on the continuously changing start of the program
+time. [Solution](/LectureExercises/week5/5uzd/2uzd.c)
+
+#### Task 3.
+Write a program that asks the user to enter two numbers (s and n), and then reads exactly n positive values of a future array x elements. If the value is not positive, ask the user to repeat the input of that value. The program shall print all pairs of numbers (x_i, x_j) in the array such that the product of x_i and x_j equals s. [Solution](/LectureExercises/week5/5uzd/3uzd.c)
+
+#### Task 4.
+Write a program that allows the user to enter and remember positive numbers until the user enters the first the first non-positive value. The program must print out all the prime numbers entered, printing each prime number only once, i.e. the value of the prime number already printed once shall not be repeated when the results are output. [Solution](/LectureExercises/week5/5uzd/4uzd.c)
+
+### Week 6
 
 Užduotis 1.
 Parašykite programą, kuri paprašo duomenų faile „in.txt“ pateikti realų skaičių, ne mažesnį už 10 ir nedidesnį už 1000, su ne daugiau kaip 3 skaičiais po kablelio. Laikykite, kad įvestyje trupmeninę dalį nuo sveikosios skiria kablelis. Programa turi atspausdinti įvesto skaičiaus ilgį. Jei duomenys pateikti nekorektiškai, programa turi prašyti įvesti (tikėtina, kito) duomenų failo vardą, su galimai jau korektiškais duomenimis.
@@ -173,143 +174,36 @@ Parašykite programą, kuri patikrina, ar eilutėje yra korektiškai įvesta dat
 
 Užduotis 4.
 Parašykite programą, kuri patikrina, ar eilutėje yra korektiškai įvestas el.pašto adresas. Laikykite, kad jis korektiškas, jei eilutėje yra vienas simbolis @ ir (po jo) bent vienas taškas, o prieš @, po taško ir tarp šių dviejų simbolių – ne mažiau nei vienas kitoks simbolis. Jei įvestis korektiška, programa turi atspausdinti domeną, t.y. el.pašto dalį po simbolio @. Visi kada nors pateikti korektiški elektroninio pašto adresai turi būti kaupiami (append) tekstiniame faile “emails.txt”.
+### Week 7
 
----
+### Week 8
 
-Užduotis 1.
-Apibrėžkite funkciją createArray , kuri dinaminėje atmintyje leidžia sukurti (naują) sveikųjų skaičių masyvą, užpildytą
-atsitiktinėmis reikšmėmis iš nurodyto intervalo. Ši funkcija gauna būsimo masyvo dydį size , išskiria atitinkamo dydžio
-bloką dinaminėje atmintyje, ir užpildo jį atsitiktiniais skaičiais iš intervalo [ low ; high ]. Paskutiniajam veiksmui atlikti, jei
-norite, galite pasinaudoti anksčiau (7 sav. 4 užd.) parengta funkcija generateArray . Funkcija createArray sėkmės
-atveju turi grąžinti rodyklę į pirmą naujai sukurto masyvo elementą, nesėkmės atveju NULL
-Įdomumo dėlei, perrašykite funkcijas
-createArray ir/ar generateArray taip, kad jų viduje vietoje operatoriaus [] masyvo
-elementui pasiekti būtų naudojamas išrodyklinimo operatorius *, adreso operatorius ir rodyklių aritmetika. Pasikeisti turi tiktai tekstas kodo faile, o funkcijų veikimas turi išlikti nepasikeitęs.
+#### Task 1.
+Define the function createArray, which allows you to create a (new) array of integers in dynamic memory, filled with with random values from a specified range. This function obtains the size of the future array size, extracts the corresponding size block in dynamic memory, and fills it with random numbers from the range [ low ; high ]. For the last step, if you wish, you can use the generateArray function developed earlier (week 7, hour 4). The createArray function succeeds must return a pointer to the first element of the newly created array, failing NULL. For interest, rewrite the functions createArray and/or generateArray so that instead of the [] operator in the array operator *, the address operator and arrow arithmetic are used to access the array element. Only the text in the code file shall change, and the behaviour of the functions shall remain unchanged. [Solution](/LectureExercises/week8/array_creation/main.c)
 
+#### Task 2.
+Define a function that obtains argc-1 filenames via command line parameters, and returns the name of the file that occupies the most bytes in memory.  [Solution](/LectureExercises/week8/didziausias%20failas/main.c)
 
-Užduotis 2.
-Apibrėžkite funkciją, kuri gauna argc-1 failų vardų per komandinės eilutės parametrus , ir grąžina daugiausiai baitų atmintyje užimančio failo vardą.
+#### Task 3.
+Define the function swap, which can swap the values of two (integer) variables passed to the function so that the swap takes place within the function and the effect remains valid not only within the function but also outside it.  [Solution](/LectureExercises/week8/swap/main.c)
 
-Užduotis 3.
-Apibrėžkite funkciją swap , kuri moka sukeisti dviejų (tai funkcijai perduodamų) kintamųjų (sveikųjų skaičių) reikšmes
-vietomis, taip, kad apkeitimas vyktų funkcijoje, o efektas liktų galioti ne tik funkcijoje, bet ir už jos ribų.
+#### Task 4.
+Define the function splitData, which is able to split one array into two parts by creating two new arrays in dynamic memory (the first array contains the numbers at the beginning of the original array, and the second array contains the rest of the original array). This function receives five parameters. The first two parameters give the data and size of the original array, the third parameter gives the size of the first part (which determines where the rescaling takes place), and the remaining two parameters are used to pass (return) the two newly created arrays (addresses of the first elements) from the function to the rest of the program. The function first checks that the values of all (!) parameters are correct, then creates two new arrays of corresponding arrays of two different sizes in dynamic memory, and then moves the required number of elements to the first and the second array respectively. The function expects that these two arrays have not yet been created before it is called, i.e. it expects to receive parameter values equal to NULL and create the arrays internally. If successful, the function returns 0, if unsuccessful -1.  [Solution](/LectureExercises/week8/split_array/main.c)
 
-Užduotis 4.
-Apibrėžkite funkciją splitData , kuri moka vieną masyvą padalinti į dvi dalis, dinaminėje atmintyje sukurdama du naujus masyvus (į pirmą masyvą įrašydama skaičius esančius pradinio m asyvo pradžioje, o į antrą masyvą pradinio masyvo likusią dalį). Ši funkcija gauna penkis parametrus. Du pirmi parametrai leidžia gauti pradinio masyvo duomenis ir dydį, trečias parametras nurodo pirmosios dalies dydį (pagal jį nustatoma, kurioje vietoje vyksta perskėlimas), o likę du
-parametrai skirti perduoti (grąžinti) tuos du naujai sukurtus masyvus (pirmųjų elementų adresus) iš funkcijos į likusią
-programą. Funkcija pirmiausia patikrina, ar visų (!) parametr ų reikšmės korektiškos, tuomet sukuria du n aujus atitinkamų
-dydžių masyvus dinaminėje atmintyje, po ko perkelia reikiamą skaičių elementų į atitinkamai pirmą ir į antrą masyvą.
-Funkcija tikisi, jog iki ją iškviečiant šie du masyvai dar nebus sukurti, t.y. tikisi, jog gaus parametrų reikšmes lygias NULL ir
-sukurs masyvus savo viduje. Sėkmės atveju, funkcija grąžina skaičių 0, nesėkmės atveju -1.
+### Week 10
 
-Kiekvienai iš užduočių skirtą kodą rašykite atskirame kodo faile . Funkcija main yra skirta parašytos funkcijos testavimui ir demonstracijai, kaip veikia jūsų parašytas kodas . Specialios vartotojo sąsajos daryti nereikia pratybų rezultatas yra funkcija, o ne main esantis kodas.
+#### Task 1.
+Implement the strlen function [Solution](/LectureExercises/week10/strlen/main.c)
+#### Task 2.
+Implement the function strcpy, strcat, or strcmp [Solution](/LectureExercises/week10/strcat/main.c)
+#### Task 3.
+Implement the function strncpy, strncat, or strncmp [Solution](/LectureExercises/week10/strncat/main.c)
+#### Task 4.
+Implement the function strchr, strrchr, or strstr [Solution](/LectureExercises/week10/strstr/main.c)
+#### Task 5.
+Implement the function memcpy, memcmp, memset, or memchr [Solution](/LectureExercises/week10/memset/main.c)
+### Week 11
 
----
-
-Užduotis 1.
-Apibrėžkite funkciją, kuri patikrina, ar duotas skaičius papuola į nustatytą intervalą.
-Funkcijos prototipas: int isInRange(int number, int low, int high)
-Aprašymas: funkcija turi grąžinti
-true , j ei skaičius number priklauso intervalui [ low ; high ] (su sąlyga, kad low nevir šija
-high ), kitaip ji turi grąžinti false
-
-Užduotis 2.
-Apibrėžkite funkciją, kuri suskaičiuoja duoto skaičiaus faktorialą.
-Funkcijos prototipas: int getFactorial(int number)
-Aprašymas: funkcija skaičiavimams naudojasi rekursija ir grąžina neneigiamo skaičiaus number faktorialą, o jei jo
-suskaičiuoti negalima grąžina 0.
-Įdomu: apibrėžkite (kitą) funkciją, kuri duoda tą patį rezultatą, bet rekursija nesinaudoja.
-
-Užduotis 3.
-Apibrėžkite funkciją, kuri leidžia gauti (įvesti) vieną skaičių iš standartinio įvedimo srauto.
-Funkcijos prototipas: int getPositiveNumber(char *msg)
-Aprašymas: funkcija atspausdina į ekraną tekstinę eilutę msg (kurioje tikisi gauti vartotojui skirtą pran
-ešimą apie tai, ką reikia įvesti), ir ją (eilutę ekrane) kartoja (prašo vartotojo įvesti vėl ir vėl) tol, kol vartotojas neįveda vieno skaičiaus eilutėje, kurį ši funkcija ir grąžina.
-
-Užduotis 4.
-Apibrėžkite funkciją, kuri leidžia užpildyti masyvą atsitik
-tinėmis reikšmėmis.
-Funkcijos prototipas: void generateArray(int data[], int size, int low, int high)
-Aprašymas: kiekvienam iš size elementų, esančių masyve data , funkcija turi priskirti atsitiktinę reikšmę iš intervalo low ; high ]; nieko papildomai grąžinti nereikia, t.y. funkcijos rezultatas yra masyve esančios (naujos) reikšmės.
-
-Užduotis 5.
-Apibrėžkite funkciją, kuri grąžina failo dydį baitais.
-Funkcijos prototipas: long getFileSize(char *fileName)
-Aprašymas: funkcija gauna failo vardą kaip parametrą, b
-ando jį atidaryti (skaitymui binariniu režimu), ir peršokus į failo pabaigą (fseek) sužinoti (ftell) kiek baitų jis užima; tą baitų skaičių funkcija ir grąžina (patikrinkite su OS rodomomis reikšmėmis), o jei kažkas nepavyko (pvz. tokio failo nėra) funkcija grąžina reikšmę -1.
-
-Užduotis 6.
-Apibrėžkite funkciją, skirtą vartotojo sąsajoje pateikiamam meniu spausdinti ir vartotojo pasirinkimui gauti.
-Funkcijos prototipas: int showMenu(char *menuTitle, char *menuOptions[], int menuSize, char *inputMsg)
-Aprašymas: funkcija turi atspausdinti meniu antraštę (parametras menuTitle ), tuomet atspausdinti meniu iš menuSize pasirinkimų, kur meniu elementų (eilučių) pavadinimai pateikiami (eilučių) masyve menuOptions . Tuomet funkcija atspausdina tekstinę eilutę inputMsg , kurioje perduodamas vartotojui skirtas tekstas, kuriame prašoma įvesti savo pasirinkimą, ir gavusi iš vartotojo skaičių (atitinkamo meniu punkto numerį) jį ir grąžina; jeigu vartotojo įvedimas nekorektiškas (įvedamas ne skaičius arba tokio meniu punkto n ėra), visas spausdinimo procesas (antraštė, meniu, prašymas įvesti) kartojamas iš naujo, tol, kol įvedimas netaps korektiškas.
-
----
-
-Užduotis 1.
-Sukurkite duomenų tipus ir funkcijas atstumui tarp dviejų taškų plokštumoje suskaičiuoti:
-a) apibrėžkite struktūrinį duomenų
-tipą Point , kurio viduje būtų saugomi du realūs skaičiai taško plokštumoje koordinatės x ir y . Duomenų tipo vardui sutrumpinti pasinaudokite raktiniu žodžiu typedef . Funkcijoje main sukurkite du Point tipo kintamuosius p1 ir p2, atitinkančius tašką su k oordinatėmis (2.0, 3.0) ir tašką su koordinatėmis ( 4.0, 5.0) atitinkamai
-b) apibrėžkite funkciją
-void printPoint(Point p) p), kuri gavusi taško koordinates nusakančią struktūrą Point , atspausdina jo
-koordinates į ekraną, formatu (x, y). Pasinaudokite funkcija printPoint taškų p1 ir p2 koordinatėms atspausdinti
-c) apibrėžkite funkciją
-Point createPoint(double x, double y), kuri turint du realius skaičius leistų gauti tašką su atitinkamomis koordinatėmis (sukurtų Point tipo struktūrą, užpildytų ją koordinatėmis, ir grąžintų tolesniam panaudojimui). Perrašykite main funkciją taip, kad taškai p1 ir p2 būtų kuriami naudojantis funkcija createPoint
-d) apibrėžkite funkciją
-double getDistance(Point a, Point b), kuri randa (gr ąžina) atstumą tarp dviejų taškų plokštumoje.
-Perrašykite main funkciją taip, kad ji atliktų vieną veiksmą apskaičiuotų atstumą tarp taškų p1 ir p2 . Tai reikia atlikti
-vienu C kalbos sakiniu funkcijai getDistance tiesiogiai perduokite createPoint rezul tatą( us), o kintamieji p1 ir p2 tampa nebūtini.
-
-Užduotis 2.
-Sukurkite sveikųjų skaičių steką, apibrėždami reikiamus duomenų tipus ir su jais dirbančias funkcijas:
-a) apibrėžkite struktūrinį duomenų tipą
-Stack , kurio viduje būtų saugomas dinaminis masyvas (rodyklė į pirmą dinaminio
-masyvo elementą) ir jo talpa (dydis). Duomenų tipo vardui sutrumpinti pasinaudokite žodžiu typedef
-b) apibrėžkite funkciją
-void initStack(Stack * stack), kuri nustatytų pradines struktūros reikšmes (lygias 0)
-c) apibrėžkite funkciją void printStack(Stack *stack), kuri cikle atspausdintų visus dinaminio masyvo elementus
-d) apibrėžkite funkciją
-int getStackSize(Stack * stack), kuri tiesiog grąžina Stack viduje talpinamo dinaminio masyvo talpą
-(dydį)
-d) apibrėžkite funkciją void push(Stack *stack, int value), kuri (padidinusi dinaminio masyvo talpą) įterptų naują reikšmę į pabaigą
-e) apibrėžkite funkciją
-int top(Stack * stack), kuri grąžintu paskutinį dinaminio masyvo elementą (arba 0, jei masyvas tuščias).
-f) apibrėžkite funkciją int pop(Stack * stack), kuri ne tik grąžina paskutinį dinaminio masyvo elementą (daro tą patį, ką ir funkciją top , ir todėl į ją kreipiasi), bet ir ištrina jį iš masyvo (atitinkamai sumažina ir dinaminio masyvo
-g) apibrėžkite
-funkciją void destroyStack(Stack * stack), kuri atlaisvina visą naudojamą atmintį (atitinkamai, atnaujina ir Stack viduje esančius laukus).
-Daugiau informacijos:
-https://en.wikipedia.org/wiki/Stack_(abstract_data_type)
-
-Užduotis 3.
-Sukurkite taškų steką, modifikuodami iki šiol sukurtus duomenų tipų aprašus ir funkcijas:
-a) modifikuokite 2 užduoties struktūrą
-Stack , nustatydami jog struktūros viduje (dinaminiame masyve) bus saugomos ne int tipo reikšmės, bet Point tipo (1 užduotis) elementai
-b) modifikuokite 2 užduoties punktuose d f nurodytų funkcijų prototipus taip, kad jos dirbtų ne su int , o su Point tipo parametrais
-c) modifikuokite 2 užduotyje apibrėžtas funkcijas taip, kad jos korektiškai dirbtų su Point tipo duomenimis, ir
-pasinaudodami sukurtomis funkcijomis, į Stack esantį dinaminį masyvą įdėkite penkis taškus ( Point ), o tada
-atspausdinkite jų koordinates ir atstumus iki koordinačių pradžios (tam modifikuokite funkciją printStack)
-
----
-
-Šių užduočių esmė - susipažinti su vienetų testais (angl. unit testing) ir testais grįstu programavimu (angl. test driven development). Įgyvendindami žemiau nurodytas užduotis, pirmiausia:
-1) parašykite nepraeinantį testą (angl. failed test),
-2) įgyvendinkite funkciją tiek ir tik tiek, kad testas praeitų ir
-3) paleiskite visus testus, kad įsitikinti, jog jie visi praeina.
-Pratybų užduotims atlikti pasirinktinai įgyvendinkite pasirinktas funkcijas iš string.h , o vienetų testams vykdyti
-pasinaudokite assert.h . Šių pratybų kontekste funkcija main - ne daugiau nei vienetų testų vykdymo priemonė. Funkcijų
-viduje negali būti funkcionalumo, kuris netikrinamas main viduje esančiais testais. Kiekvienos užduoties kodą rašykite atskirame faile .
-
-Užduotis 1.
-Įgyvendinkite funkciją strlen
-Užduotis 2.
-Įgyvendinkite funkciją strcpy , strcat , arba strcmp
-Užduotis 3.
-Įgyvendinkite funkciją strncpy , strncat , arba strncmp
-Užduotis 4.
-Įgyvendinkite funkciją strchr , strrchr , arba strstr
-Užduotis 5.
-Įgyvendinkite funkciją memcpy , memcmp , memset , arba memchr
-
----
 Funkcija main yra skirta testavimui ir demonstracijai, kaip veikia jūsų parašytos funkcijos. Nei vienoje iš žemiau
 užduotyse aprašomų funkcijų negali būti nei skaitymo iš, nei spausdinimo į ekraną (nebent užduotyje nurodoma kitaip,
 pvz. printArray ar main). Specialios vartotojo sąsajos daryti nereikia – rezultatas yra funkcijos ir moduliai, o ne
@@ -351,53 +245,29 @@ Sukurkite dinaminę biblioteką libfile.dll (arba libfile.so), į kurios vidų �
 (main-dynamic.exe arba jo analogą), kuris galėtų dirbti su ta dinamine biblioteka. Įsitikinkite, kad programa
 main-dynamic veikia korektiškai.
 
----
+### Week 12
 
-Kiekvieną algoritmą (arba jo variantą) realizuokite kaip atskirą funkciją, o funkcijoje main įvertinkite kiekvieno jų
-efektyvumą ir palyginkite juos tarpusavyje. Kiekvienoje iš funkcijų berikiuodami skaičiuokite, kiek kartų buvo lyginami
-gretimi elementai, ir kiek kartų jiems buvo vykdomos priskyrimo operacijos. Jei norite, dviem šių operacijų skaitliukams galite naudoti globalius kintamuosius. Main funkcijoje atspausdinkite lentelę, kurioje būtų galima pažiūrėti, kiek operacijų buvo atlikta kiekvienoje iš nagrinėjami algoritmo versijų.
+Implement each algorithm (or a variant of it) as a separate function, and evaluate each of them in main and compare their performance against each other. In each function, count the number of times the comparison has been made adjacent elements and the number of times the assignment operations have been performed on them. If you wish, you can use global variables for the two counters of these operations. In the main function, print a table to see how many operations have been performed in each version of the algorithm under consideration. [Solution](/LectureExercises/week12/sorts/main.c)
 
-Užduotis 1a.
-Apibrėžkite funkciją, skirtą užpildyti turimą masyvą atsitiktinai sugeneruotais duomenimis. Jei turite jau parašytą
-realizaciją, galite ja naudotis.
-Užduotis 1b.
-Apibrėžkite funkciją, skirtą rikiavimo algoritmo korektiškumui tikrinti. Ši funkcija patikrina, ar masyve esantys duomenys
-surikiuoti reikiama tvarka.
+#### Task 1a.
+Define a function to fill an array with randomly generated data. If you have already written
+implementation, you can use it.
+#### Task 1b.
+Define a function to check the correctness of the sorting algorithm. This function checks whether the data in the array
+are sorted in the correct order.
 
-Užduotis 2.
-Realizuokite žemiau nurodytas rikiavimo algoritmų versijas. Svarbu: pirmiausia pagaminkite joms korektišką testavimo aplinką, t.y. tokią, kurioje lyginimas būtų korektiškas, nes kiekviena iš algoritmo versijų eksperimento metu rikiuoja tą patį (nesurikiuotą, programos pradžioje sugeneruotą) duomenų masyvą. Kad sugeneruoti duomenis, naudokitės funkciją iš užduoties 1a, o surikiavę juos vienu ar kitu užduoties 2 algoritmų pasinaudokite užduoties 1b funkcija algoritmo darbo rezultatui patikrinti. Jei algoritmas duomenų neišrikiuoja – atspausdinkite tai rezultatų lentelėje. Tai reiškia, jog programuodami padarėte klaidą.
-Algoritmai:
-a) Burbuliuko metodas (angl. bubble sort, https://en.wikipedia.org/wiki/Bubble_sort)
-b) Greitojo rikiavimo metodas (angl. quick sort, https://en.wikipedia.org/wiki/Quicksort)
-c) Įterpimo metodas (angl. insertion sort, https://en.wikipedia.org/wiki/Insertion_sort)
-d) Išrinkimo metodas (angl. selection sort, https://en.wikipedia.org/wiki/Selection_sort)
-e) Sąlajos metodas (angl. merge sort, https://en.wikipedia.org/wiki/Merge_sort)
+#### Task 2.
+Implement the following versions of the sorting algorithms. Important: first, make a correct testing environment for them, i.e. one in which the comparison is correct, because each version of the algorithm sorts the same (unordered, generated at the beginning of the program) array of data during the experiment. To generate the data, use the function from Problem 1a, and once you have sorted it with one or other of the algorithms in Problem 2, use the function from Problem 1b to check the performance of the algorithm. If the algorithm does not sort the data, print this in the results table. This means that you have made a programming error.
+Algorithms:
+(a) Bubble sort (https://en.wikipedia.org/wiki/Bubble_sort)
+(b) Quick sort (https://en.wikipedia.org/wiki/Quicksort)
+(c) Insertion sort (https://en.wikipedia.org/wiki/Insertion_sort)
+(d) Selection sort (https://en.wikipedia.org/wiki/Selection_sort)
+(e) Merge sort (https://en.wikipedia.org/wiki/Merge_sort)
 
-Užduotis 3.
-a) Perrašykite testavimo aplinką taip, kad būtų atliekamas ne vienas, bet daug eksperimentų (t. y. rikiuojamas ne vienas, o
-daug skirtingų duomenų rinkinių), ir rezultatų lentelėje atsispindėtų visuminis palyginimas, o ne vieno duomenų
-rinkinio rezultatai.
-b) Atlikite eksperimentus realizuotų algoritmų efektyvumui įvertinti. Eksperimento rezultatus atspausdinkite main
-funkcijoje, nurodydami kiek operacijų/laiko reikėjo vienam ar kitam algoritmui. Naudodamiesi globaliais kintamaisiais, suskaičiuokite kiek priskyrimo ir kiek palyginimo operacijų atliko kiekvienas iš algoritmų; išmatuokite, kiek sekundžių algoritmas dirbo (tam pasinaudokite <time.h>
-aprašytomis funkcijomis)
+#### Task 3.
 
-
-
-LAB Assignments
-
- Įvesti sveiką skaičių G. Įvesti sveikų skaičių seką, kurios pabaiga žymima skaičiumi
-G. Išvesti visų įvestų narių skaičių, teigiamų narių skaičių ir neigiamų narių sumą bei
-sandaugą (arba atitinkamą pranešimą, jeigu tokių nėra).
-
-
-Įvesti sveiką skaičių N. Įvesti N sveikų skaičių a1
-, a2
-, ... aN. Apskaičiuoti, kiek yra
-skaičių lygių maksimumui ir kiek lygių minimumui. Išvesti įvestus skaičius, išmetus
-lygius maksimumui ir minimumui.
-
-
-Parašyti funkciją, kuri žodyje esančius skaitmenis pakeičia pirmąja to žodžio raide.
-
-n1. Sudaryti vienpusį sąrašą. Parašyti procedūrą, kuri išmeta numeriu nurodytą elementą.
-Jeigu tokio elemento nėra, turi būti išvestas atitinkamas pranešimas.
+a) Rewrite the testing environment so that not one but many experiments are performed (i.e., not one but
+many different sets of data) and the results table reflects a global comparison rather than a single data set
+The results of a single set of data shall be presented in a global analysis.
+b) Conduct experiments to evaluate the performance of the implemented algorithms.Print the results of the experiment on the mainfunction, indicating how many operations/time were required for one or the other algorithm. Using global variables, count the number of assignment and comparison operations performed by each algorithm; measure how many seconds the algorithm took to run (use <time.h> for this purpose)the functions described in the "time of day" function)
