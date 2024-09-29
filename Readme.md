@@ -68,33 +68,46 @@ First Name Last Name ...
 First Name Last Name ...
 ...
 QUERY4
-...
-Paaiškinimas: neprivaloma atlikti visas užklausas. Ataskaitų faile rašomos tik tos užklausos, kurias įgyvendinote. Failą
-siūloma pildyti rankomis, pagal tai, ką matote ekrane paleidę atitinkamą queryX.c failą. Vietoje laužtinių skliaustų eilutėje
-reikia užrašyti, kiek studentų tenkina duotą užklausą. Jei skaičius teigiamas, žemiau reikia įkelti pirmųjų trijų užklausą
-tenkinusių studentų įrašų duomenis (privaloma Vardas ir Pavardė, kitkas savo nuožiūra, kaip patogiau). Jei studentų
-mažiau nei trys, įkelkite kiek yra, jei daugiau – vietoje ketvirtos ir vėlesnių eilučių dėkite daugtaškį.
 
 #### Queries
 Standard queries:
+
 QUERY 1. Students who have not chosen any course. [Solution](/LectureExercises/week3/procedurinis/query1.c)
+
 QUERY 2. Students with an average of 5.0 or higher. [Solution](/LectureExercises/week3/procedurinis/query2.c)
+
 QUERY 3. Students whose name begins with a consonant. [Solution](/LectureExercises/week3/procedurinis/query3.c)
+
 QUERY 4. Students who are in their second or third year. [Solution](/LectureExercises/week3/procedurinis/query4.c)
+
 QUERY 5. Students whose first name is longer than their last name. [Solution](/LectureExercises/week3/procedurinis/query5.c)
+
 QUERY 6. Students who do not have negative grades. [Solution](/LectureExercises/week3/procedurinis/query6.c)
+
 QUERY 7. Students with grades between 6 and 9 inclusive. [Solution](/LectureExercises/week3/procedurinis/query7.c)
+
 QUERY 8. Students who study Calculus and Algebra. [Solution](/LectureExercises/week3/procedurinis/query8.c)
+
 QUERY 9. Students who study "Philosohpy" and pass the exam (>4). [Solution](/LectureExercises/week3/procedurinis/query9.c)
+
 QUERY 10. Students who know "Lithuanian" language. [Solution](/LectureExercises/week3/procedurinis/query10.c)
+
 QUERY 11. Students who are studying "Philosohpy" or have 10s. [Solution](/LectureExercises/week3/procedurinis/query11.c)
+
 More complex queries:
+
 QUERY 12. Students who know the most languages. [Solution](/LectureExercises/week3/procedurinis/query12.c)
+
 QUERY 13. Students whose grade point average is wrong. [Solution](/LectureExercises/week3/procedurinis/query13.c)
+
 QUERY 14. Students who do not have a course in which they are the only student. [Solution](/LectureExercises/week3/procedurinis/query14.c)
+
 QUERY 15. Students who are within one grade of the top student. [Solution](/LectureExercises/week3/procedurinis/query15.c)
+
 QUERY 16. Students with duplicate language or course entries. [Solution](/LectureExercises/week3/procedurinis/query16.c)
+
 QUERY 17. Students with different grades stored on their records for the same course. [Solution](/LectureExercises/week3/procedurinis/query17.c)
+
 QUERY 18. Students with unique names in the database. [Solution](/LectureExercises/week3/procedurinis/query18.c)
 ### Week 4
 
@@ -160,22 +173,37 @@ Write a program that asks the user to enter two numbers (s and n), and then read
 
 #### Task 4.
 Write a program that allows the user to enter and remember positive numbers until the user enters the first the first non-positive value. The program must print out all the prime numbers entered, printing each prime number only once, i.e. the value of the prime number already printed once shall not be repeated when the results are output. [Solution](/LectureExercises/week5/5uzd/4uzd.c)
-
 ### Week 6
 
-Užduotis 1.
-Parašykite programą, kuri paprašo duomenų faile „in.txt“ pateikti realų skaičių, ne mažesnį už 10 ir nedidesnį už 1000, su ne daugiau kaip 3 skaičiais po kablelio. Laikykite, kad įvestyje trupmeninę dalį nuo sveikosios skiria kablelis. Programa turi atspausdinti įvesto skaičiaus ilgį. Jei duomenys pateikti nekorektiškai, programa turi prašyti įvesti (tikėtina, kito) duomenų failo vardą, su galimai jau korektiškais duomenimis.
+#### Task 1.
+Write a program that asks for a real number in the data file "in.txt", not less than 10 and not more than 1000, with no more than 3 decimal places. Consider that in the input a decimal is separated from an integer by a comma. The program must print the length of the number entered. If the data is incorrect, the program must prompt for a (possibly different) data file name with possibly already correct data. [Solution](/LectureExercises/week6/po_kablelio/main.c)
 
-Užduotis 2.
-Parašykite programą, kuri paprašo įvesti tris skaičius vienoje eilutėje, be tarpų, teigiamus arba neigiamus, kuriuos vieną nuo kito skiria kabliataškiai, ir raskite vidurinį (pagal reikšmę) skaičių. Jei įvestis korektiška, rezultatą (reikšmę) programa turi atspausdinti rezultatų faile, kurio vardas įvedamas ir privalo baigtis simboliais „.txt“ (jei taip nėra, prašoma failo vardą įvesti iš naujo).
+#### Task 2.
+Write a program that asks you to enter three numbers per line, without spaces, positive or negative, separated by semicolons, and find the middle (in terms of value) number. If the input is correct, the result (value) must be printed by the program in a result file, the name of which must be entered and must end with the characters ".txt" (if not, the file name is asked to be re-entered). [Solution](/LectureExercises/week6/3skaiciai/main.c)
 
-Užduotis 3.
-Parašykite programą, kuri patikrina, ar eilutėje yra korektiškai įvesta data, formatu YYYY-MM-DD. Jei taip, programa turi atspausdinti, kokia tai savaitės diena. Savaitės dienų pavadinimai turi būti skaitomi iš tekstinio failo „week.txt“, kuriame yra iš anksto įrašytos septynios eilutės su atitinkamų dienų pavadinimais. Pakeitus pavadinimus faile (pvz. iš lietuvių kalbos į anglų), programoje spausdinamos reikšmės irgi turi pasikeisti (automatiškai).
+#### Task 3.
+Write a program that checks whether the date in the string is correctly entered in the format YYYY-MM-DD. If so, the program should print the day of the week. The names of the days of the week must be read from the text file "week.txt", which contains seven lines with the names of the corresponding days predefined. If you change the names in the file (e.g. from English to English), the values printed in the program must also change (automatically).
 
-Užduotis 4.
-Parašykite programą, kuri patikrina, ar eilutėje yra korektiškai įvestas el.pašto adresas. Laikykite, kad jis korektiškas, jei eilutėje yra vienas simbolis @ ir (po jo) bent vienas taškas, o prieš @, po taško ir tarp šių dviejų simbolių – ne mažiau nei vienas kitoks simbolis. Jei įvestis korektiška, programa turi atspausdinti domeną, t.y. el.pašto dalį po simbolio @. Visi kada nors pateikti korektiški elektroninio pašto adresai turi būti kaupiami (append) tekstiniame faile “emails.txt”.
+#### Task 4.
+Write a program that checks if the correct email address is entered in the string. Consider it correct if the string contains one @ and (after it) at least one full stop, and at least one other character before the @, after the full stop and between the two characters. If the input is correct, the program must print the domain, i.e. the part of the email after the @ symbol. All correct e-mail addresses ever submitted must be stored (append) in the text file 'emails.txt'. [Solution](/LectureExercises/week6/emails/emails.c)
 ### Week 7
+#### Task 1
+ Define a function that checks whether a given number falls within a given interval. Function prototype: int isInRange(int number, int low, int high) Description: the function must return true if number belongs to the interval [ low ; high ] (provided that low does not exceed high), otherwise it must return false
 
+#### Task 2
+ Define a function that computes the factorial of a given number. Function prototype: int getFactorial(int number) Description: the function uses recursion to compute the factorial of the nonnegative number number and returns 0 if it cannot be computed. Interesting: define a (different) function that gives the same result but does not use recursion.
+
+#### Task 3
+ Define a function that allows you to get (input) a single number from a standard input stream. Function prototype: int getPositiveNumber(char *msg) Description: the function prints the text string msg to the screen (where it expects to get a message to the user about what to enter), and repeats it (the string on the screen) (asks the user to enter it over and over again) until the user enters a single number in the string, which is what the function returns. [Solution](/LectureExercises/week7/positive_number/main.c)
+
+#### Task 4
+ Define a function that allows you to fill an array with random values. Function prototype: void generateArray(int data[], int size, int low, int high) Description: for each of the size elements in the array data , the function has to assign a random value from the range [low;high]; nothing additional has to be returned, i.e. the result of the function is the (new) values in the array. [Solution](/LectureExercises/week7/range_7/main.c)
+
+#### Task 5
+ Define a function that returns the size of a file in bytes. Function prototype: long getFileSize(char *fileName) Description: the function receives the name of the file as a parameter to open it (for reading in binary mode), and after jumping to the end of the file (fseek) to find out (ftell) how many bytes it occupies; this number of bytes is returned by the function (check with the values displayed by the OS), and if something failed (e.g. there is no such file) the function returns the value -1. [Solution](/LectureExercises/week7/failo_dydis/main.c)
+
+#### Task 6
+ Define the function for printing the menu and obtaining the user's choice in the user interface. Function prototype: int showMenu(char *menuTitle, char *menuOptions[], int menuSize, char *inputMsg) Description: the function has to print the menu title (parameter menuTitle ), then print the menu from the options in menuSize, where the names of the menu items (lines) are contained in the array menuOptions . The function then prints the text string inputMsg , which passes the text to the user requesting the user to enter his/her choice, and after receiving a number (the number of the corresponding menu item) from the user, returns it; if the user's input is incorrect (no number is entered, or no such menu item exists), then the whole printing process (header, menus, request for input) is repeated again until the input is correct. [Solution](/LectureExercises/week7/meniu/main.c)
 ### Week 8
 
 #### Task 1.
@@ -189,7 +217,24 @@ Define the function swap, which can swap the values of two (integer) variables p
 
 #### Task 4.
 Define the function splitData, which is able to split one array into two parts by creating two new arrays in dynamic memory (the first array contains the numbers at the beginning of the original array, and the second array contains the rest of the original array). This function receives five parameters. The first two parameters give the data and size of the original array, the third parameter gives the size of the first part (which determines where the rescaling takes place), and the remaining two parameters are used to pass (return) the two newly created arrays (addresses of the first elements) from the function to the rest of the program. The function first checks that the values of all (!) parameters are correct, then creates two new arrays of corresponding arrays of two different sizes in dynamic memory, and then moves the required number of elements to the first and the second array respectively. The function expects that these two arrays have not yet been created before it is called, i.e. it expects to receive parameter values equal to NULL and create the arrays internally. If successful, the function returns 0, if unsuccessful -1.  [Solution](/LectureExercises/week8/split_array/main.c)
+### Week 9
+#### Task 1 [Solution](/LectureExercises/week9/points/main.c)
+Create data types and functions to calculate the distance between two points in the plane: a) Define a structured data type Point , which stores two real numbers in the plane of the point in the coordinates x and y. Use the keyword typedef to abbreviate the name of the data type. In the function main, create two variables of type Point p1 and p2, corresponding to a point with coordinates (2.0, 3.0) and a point with coordinates ( 4.0, 5.0), respectively. b) Define the function void printPoint(Point p) p), which, after obtaining the structure Point , which defines the coordinates of a point, prints its coordinates on the screen in the format (x, y). Use the function printPoint to print the coordinates of points p1 and p2. c) Define the function Point createPoint(double x, double y), which, given two real numbers, will produce a point with the corresponding coordinates (create a structure of type Point, fill it with the coordinates, and return it for further use). Rewrite the main function so that points p1 and p2 are created using the createPoint function (d) define a function double getDistance(Point a, Point b) that finds (returns) the distance between two points in the plane. Rewrite the main function so that it performs a single step to calculate the distance between points p1 and p2 . To do this in a single sentence in C, pass the result of createPoint( us) directly to the function getDistance, and the variables p1 and p2 become unnecessary.
 
+#### Task 2 [Solution](/LectureExercises/week9/stekas/main.c)
+ Create an integer stack by defining the necessary data types and the functions that work with them:
+ a) Define a structured data type Stack , inside which a dynamic array (a pointer to the first element of the dynamic array) and its capacity (size) are stored. Use the word typedef to abbreviate the name of the datatype
+ b) define the function void initStack(Stack * stack), which would set the initial values of the structure (equal to 0)
+ c) define the function void printStack(Stack *stack), which would print all the elements of the dynamic array in a loop
+ d) define the function int getStackSize(Stack * stack), which simply returns the capacity (size) of the dynamic array stored inside the Stack d) define a function void push(Stack *stack, int value), which (after increasing the capacity of the dynamic array) would insert a new value at the end
+ e) define a function int top(Stack *stack), which would return the last element of the dynamic array (or 0 if the array is empty).
+ f) define a function int pop(Stack * stack) that not only returns the last element of the dynamic array (doing the same as the function top , and therefore referring to it), but also deletes it from the array (correspondingly reducing the size of the dynamic array g) define a function void destroyStack(Stack * stack) that frees all used memory (correspondingly updating the fields inside the Stack). More information: https://en.wikipedia.org/wiki/Stack_(abstract_data_type)
+
+#### Task 3 [Solution](/LectureExercises/week9/stekas_points/main.c)
+ Create a point stack by modifying the data type descriptors and functions created so far:
+ a) modify the Stack structure of Task 2 by setting the structure to store elements of type Point (Task 1) inside the structure (in a dynamic array) instead of values of type int (Task 1)
+ b) modify the prototypes of the functions in Task 2 (d) and (f) to work with functions other than the one for type int
+ c) modify the functions defined in Task 2 to work correctly with data of type Point and, using the functions you have created, place five points ( Point ) in the dynamic array in Stack and then print their coordinates and distances to the origin of the coordinates (to do this, modify the function printStack)
 ### Week 10
 
 #### Task 1.
@@ -204,47 +249,54 @@ Implement the function strchr, strrchr, or strstr [Solution](/LectureExercises/w
 Implement the function memcpy, memcmp, memset, or memchr [Solution](/LectureExercises/week10/memset/main.c)
 ### Week 11
 
-Funkcija main yra skirta testavimui ir demonstracijai, kaip veikia jūsų parašytos funkcijos. Nei vienoje iš žemiau
-užduotyse aprašomų funkcijų negali būti nei skaitymo iš, nei spausdinimo į ekraną (nebent užduotyje nurodoma kitaip,
-pvz. printArray ar main). Specialios vartotojo sąsajos daryti nereikia – rezultatas yra funkcijos ir moduliai, o ne
-main esantis kodas.
-Naudojamo kompiliatoriaus parinktis (angl. compiler options), leidžiančias vykdyti žemiau nurodytus veiksmus, kurti bibliotekas ir valdyti transliavimo procesą, rasite kompiliatoriaus dokumentacijoje. Jei naudojatės GCC, galite
-pasinaudoti paskaitos metu pateikta informacija.
-Darbo pabaigoje suarchyvuokite visus užduočių rengimo procese sukurtus (tiek rankomis, tiek automatiškai) failus (įtraukiame bibliotekas ir kodo failus, (.i, .s, .o); binarinių failų su išsaugotais duomenimis kelti nereikia).
+The main function is for testing and demonstrating how functions you have written work. None of the following of the functions described in the tasks below may not read from or print to the screen (unless the task specifies otherwise, e.g. printArray or main). There is no need for a special user interface - the result is functions and modules, not the code in main. See the compiler documentation for the compiler options that allow you to do the following, create libraries and control the translation process. If you are using GCC, you can use the information given in the lecture. At the end of your work, archive all the files you have created (both manually and automatically) during the compilation process (we include libraries and source files, (.i, .s, .o); there is no need to upload binaries containing saved data).
 
-Užduotis 1a.
-Sukurkite modulį, atskirame faile file.c apibrėždami dvi funkcijas: saveToFile, leidžiančią sveikų skaičių masyvo turinį
-išsaugoti binariniame faile, ir loadFromFile, leidžiančią iš to failo jį užkrauti. Kad užkraunant žinoti kiek elementų buvo
-saugoma masyve, išsaugodami duomenis binarinio failo pradžioje išsaugokite to masyvo dydį. Šių funkcijų prototipus
-pateikite antraštės faile file.h, kurį būtinai apsaugokite nuo pakartotinio įtraukimo (angl. include guard). Kitame faile
-main.c įtraukite file.h ir apibrėžkite dvi naujas funkcijas: fillArray, leidžiančią užpildyti masyvą atsitiktiniais duomenimis, ir printArray, leidžiančią atspausdinti visus to masyvo elementus į ekraną. Faile main.c sukurkite funkciją main ir patikrinkite savo parašytas funkcijas tokiu būdu: 1) sugeneruokite masyvą m1 2) atspausdinkite m1 3) išsaugokite m1 faile 4) užkraukite iš failo masyvą m2 5) atspausdinkite m2. Jei abiejų masyvų turinys sutampa (kas reiškia, jog funkcijos veikia korektiškai), parašykite programą, kuri spausdina tekstą „all good“ į ekraną, jei masyvų turinys sutampa, ir „something’s wrong“, jei masyvų turinys skiriasi.
+#### Task 1a.
+Create a module by defining two functions in a separate file file.c: saveToFile, allowing the contents of an array of integers to be in a binary file, and loadFromFile, which allows to load it from that file. To load the file, we need to specify the number of elements that were was stored in the array, save the size of the array at the beginning of the binary file. Prototypes of the following functions in the header file file.h, which must be protected against re-inclusion (include guard). In another file main.c, include file.h and define two new functions: fillArray, which allows you to fill an array with random data, and printArray, which allows you to print all the elements of that array to the screen. In file main.c, create a function main and test the functions you have written in this way:
 
-Užduotis 1b.
-Papildykite file.h ir file.c esantį modulį dviem skaitliukais (globalūs kintamieji), leidžiančiais įsiminti, kiek kartų masyvas
-buvo saugomas į failą ir kiek kartų buvo iš failo nuskaitoma. Patikrinkite, jog tie skaitliukai skaičiuoja operacijas
-korektiškai, tokiu būdu: 1) sugeneruokite masyvus m1, m2 ir m3 su atsitiktiniais duomenimis 2) išsaugokite masyvą m1
-į failą 3) į tą patį failą („ant viršaus“) išsaugokite masyvą m3 4) užkraukite iš to failo masyvą m1 5) išsaugokite kitame
-faile masyvą m2 6) užkraukite iš to (kito) failo masyvą m3 7) užkraukite iš pirmo (ankstesnio) failo masyvą m2.
-Parašykite programą, kuri spausdina „all good“, jei įvykdžius minėtą scenarijų skaitliukas saveCount lygus 3 ir skaitliukas
-loadCount lygus 3, o kitu atveju – spausdinkite „something’s wrong“.
+1) generate the array m1
+2) print m1
+3) save m1 in a file
+4) load the array m2 from the file
+5) print m2. If the contents of the two arrays match (which means that the functions are working correctly), write a program that prints "all good" to the screen if the contents of the arrays are the same and "something's wrong" if the contents of the arrays are different.
 
-Užduotis 1c.
-Kompiliuodami per komandinę eilutę, sugeneruokite šiuos failus: 1) gaukite file.i, apdoroję file.c preprocesoriumi 2)
-gaukite file.s su asemblerio kodu, atitinkančiu file.c ir/ar file.i esantį kodą 3) gaukite file.o, kuriame būtų sukompiliuotas
-file.c kodas 4-6) analogiškai gaukite failus main.i, main.s ir main.o, iš failo main.c ir 7) gaukite programos vykdomąjį failą
-(main.exe arba jo analogą), surišdami (angl. linking) failus file.o ir main.o. Pasižiūrėkite, kaip atrodo kiekvienas iš gautų
-failų, per tekstinį redaktorių. Kurie failai yra tekstiniai, skaitomi/suprantami žmogui, o kurie ne (skirti „kompiuteriui“)?
+#### Task 1b.
+Add two counters (global variables) to the file.h and file.c module to remember how many times the array
+has been stored in a file and how many times it has been read from a file. Check that these counters count the operations
+correctly, as follows:
 
-Užduotis 1d.
-Sukurkite statinę biblioteką libfile.a (arba libfile.lib), į kurios vidų įdėkite failą file.o. Pagaminkite vykdomąjį failą
-(main-static.exe arba jo analogą), naudodamiesi ta sukurta statine biblioteka. Įsitikinkite, kad programa main-static
-veikia korektiškai.
+1) generate arrays m1, m2 and m3 with random data
+2) store array m1
+3) save array m3 to a file
+3) save array m3 to the same file ("on top")
+4) load array m1 from that file
+5) save it to another file
+6) load array m3 from that (next) file
+7) load array m2 from the first (previous) file.
 
-Užduotis 1e.
-Sukurkite dinaminę biblioteką libfile.dll (arba libfile.so), į kurios vidų įdėkite failą file.o. Pagaminkite vykdomąjį failą
-(main-dynamic.exe arba jo analogą), kuris galėtų dirbti su ta dinamine biblioteka. Įsitikinkite, kad programa
-main-dynamic veikia korektiškai.
+Write a program that prints "all good" if, after the above scenario, the saveCount counter is 3 and the counter
+loadCount equals 3 and otherwise print "something's wrong".
 
+#### Task 1c.
+Compile the following files on the command line:
+
+1) get file.i by processing file.c with the preprocessor
+2) get file.s with assembly code corresponding to the code in file.c and/or file.i
+3) get file.o containing the compiled file.c code
+
+4-6) get the files main.i, main.s and main.o in the same way, from file main.c
+
+7) get the program executable file (main.exe or equivalent) by linking the files file.o and main.o. See what each of the resulting the resulting files through a text editor. Which files are text files, readable/understandable by humans, and which are not (for the "computer")?
+
+#### Task 1d.
+Create a static library libfile.a (or libfile.lib), inside which you put the file file.o. Make an executable file
+(main-static.exe or its equivalent) using the static library you created. Make sure that the main-static
+works correctly.
+
+#### Task 1e.
+Create a dynamic library libfile.dll (or libfile.so), inside of which you place the file file.o. Produce an executable file
+(main-dynamic.exe or equivalent) that can work with that dynamic library. Make sure that the program
+main-dynamic works correctly.
 ### Week 12
 
 Implement each algorithm (or a variant of it) as a separate function, and evaluate each of them in main and compare their performance against each other. In each function, count the number of times the comparison has been made adjacent elements and the number of times the assignment operations have been performed on them. If you wish, you can use global variables for the two counters of these operations. In the main function, print a table to see how many operations have been performed in each version of the algorithm under consideration. [Solution](/LectureExercises/week12/sorts/main.c)
